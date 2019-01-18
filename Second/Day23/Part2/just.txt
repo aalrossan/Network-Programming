@@ -1,0 +1,2336 @@
+
+
+
+
+<!DOCTYPE HTML>
+<html dir="ltr" class="ms-isBot" lang="en-US">
+    <head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+		<!-- this meta from majestic for webometrics purposes -->
+		<meta name="majestic-site-verification" content="MJ12_5a0c36ec-d0ea-42e6-89a2-1249de3f180c" />
+		
+		
+        <!-- ===== STARTER: Robots  ======================================================================================================= -->
+        
+		
+		<!-- ===== STARTER: Favicon / Windows Tile ======================================================================================== -->	
+		
+		<link rel="shortcut icon" href="/assets/common/images/just-logo-mob.png" type="image/vnd.microsoft.icon" id="favicon" />
+		
+		
+		<!-- ===== STARTER: Page Title loaded from page or page layout ==================================================================== -->
+		<title>
+	
+	Jordan University of Science and Technology
+
+</title>
+		
+		
+		<!-- ===== STARTER: SP Scripts and CSS  =========================================================================================== -->
+		<link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=ox%2BqLd6WTqhn6d%2FMqf2BMw%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/page-layouts-21.css"/>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=%2FWTxr8UesytJ8GB%2F5hOwZA%3D%3D"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=Slqrp2u3mX4KnTOEzEeJUQZe8KGnDFyIwZhVU2wUQBTJ8VP9NaigpbuByCT6u-7509S9Fw0BdjN0PYZK8pgRlQGyVZjr3F-Qm9hoIuG3GMHAKlCzHkSztT_tYrj8R6TBKUXvm0BEpbOp5CbxzHKouVm7puoD1C5Bam9kxaLq1H5h8EQ4JTkyDdlvjYPggXlK0&amp;t=ffffffff85e60464"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D"></script>
+<script type="text/javascript" src="/_layouts/15/sp.init.js?rev=3nSw25FIGbfepznMSgi74A%3D%3D"></script>
+<script type="text/javascript" src="/_layouts/15/ScriptResx.ashx?culture=en%2Dus&amp;name=SP%2ERes&amp;rev=yNk%2FhRzgBn40LJVP%2BqfgdQ%3D%3D"></script>
+<script type="text/javascript" src="/_layouts/15/sp.ui.dialog.js?rev=0xf6wCIW4E1pN83I9nSIJQ%3D%3D"></script>
+<script type="text/javascript" src="/_layouts/15/sp.runtime.js?rev=5f2WkYJoaxlIRdwUeg4WEg%3D%3D"></script>
+<script type="text/javascript" src="/_layouts/15/sp.js?rev=BZlBP%2Bn9Ja3uUvqzGXl8xw%3D%3D"></script>
+<script type="text/javascript">RegisterSod("initstrings.js", "\u002f_layouts\u002f15\u002f1033\u002finitstrings.js?rev=4Yrxyggg5knao3D48Ii\u00252FWA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=u\u00252B0KcZWR52dtr8LTlqcZcw\u00253D\u00253D");RegisterSodDep("strings.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=uA2xjCXmuYM5ARP8g3eTSA\u00253D\u00253D");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=Yb\u00252FYo8qgTV4OUX0FEzTMog\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=VYAJYBo5H8I3gVSL3MzD6A\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=ryx2n4ePkYj1\u00252FALmcsXZfA\u00253D\u00253D");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=Zv6bvcssV7dy3VrmkAWlSw\u00253D\u00253D");RegisterSodDep("clienttemplates.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=EojJW\u00252FD7vytDfjPyrFWfzw\u00253D\u00253D");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=REwVU5jSsadDdOZlCx4wpA\u00253D\u00253D");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=p5tCOm\u00252FlHUwcfll7W3pKNw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=sObFmln\u00252BGVrczIpXNeFRrg\u00253D\u00253D");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=ProfileBrowserScriptRes\u0026rev=J5HzNnB\u00252FO1Id\u00252FGI18rpRcw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ua8qmZSU9nyf53S7PEyJwQ\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=JuQvHna5pA8GjBqyCrETww\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");</script>
+<link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx" />
+	
+		
+		<!-- ===== STARTER: Core SharePoint CSS =========================================================================================== -->
+		
+		
+		<!-- ===== STARTER: Custom CSS  =================================================================================================== -->
+		
+		
+		
+		<!-- my code -->
+	    <script src='/assets/common/jquery.min.js' type="text/javascript" ></script>
+	    <script type="text/javascript" src='/Style Library/JUST2016/js/jquery.actual.min.js'></script>
+	    
+	    <script src='/assets/common/bootstrap/js/bootstrap.min.js' type="text/javascript" ></script>
+	    <link rel="stylesheet" type="text/css" href="/assets/common/bootstrap/css/bootstrap.min.css" /><link rel="stylesheet" type="text/css" href="/assets/common/font-awesome/css/font-awesome.css" /><link rel="stylesheet" type="text/css" href="/assets/just/css/font.css" /><link rel="stylesheet" type="text/css" href="/assets/just/css/style.css" />
+	    <script src='/assets/just/js/script.js' type="text/javascript" ></script>
+	    <!-- my code -->
+	    
+		<!-- ===== STARTER: Additional header placeholder - overridden by asp:content on pages or page layouts  =========================== -->
+		
+	
+	
+			<style type="text/css">
+				.v4master #s4-leftpanel { display: none; }
+				.v4master .s4-ca { margin-left: 0px; }
+			</style> 
+			
+		
+<meta name="keywords" content="JUST,Jordan university of science and technology, جامعة العلوم والتكنولوجيا الاردنية,Jordan university,جامعة العلوم,التكنو,techno,just university" /><link rel="canonical" href="http://www.just.edu.jo:80/Pages/Default.aspx" /><meta name="description" content="Jordan university of science and technology JUST website
+موقع جامعة العلوم والتكنولوجيا الاردنية" />
+		
+		
+		<!-- ******************** Google Analytic Script -- added on 16 Apr, 2017 ****************** -->
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-97401979-1', 'auto');
+		  ga('send', 'pageview');
+		
+		</script>
+		<!-- ******************************************************************************************* -->
+
+	</head> 
+	
+	<body>
+		<!-- ===== STARTER: SP IDs / Prefetch SP images / SP Form  =========================================================================== -->
+		
+		<div id="imgPrefetch" style="display:none">
+<img src="/assets/common/images/just-logo-mob.png?rev=23" />
+</div>
+
+		<form method="post" action="./Default.aspx" id="aspnetForm">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xCC207B5EBF15C09E822144C6404376FB3082ECB2F12889AF76F01CC6BB9316F52472198403323F66713B98DD5E2A336FC703DC0FC0A83353E9DD249FF0B29483,03 Dec 2018 13:23:37 -0000" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAIND2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTUuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAisPZBYCZg9kFgJmDzwrAAYAZAIHD2QWCAIBD2QWBgUmZ181ZDg1YzU4M19lMWEzXzQyNzNfODMxYV81YmNkMTdmOGE4ZjkPZBYCZg9kFgICAQ8WBB4Fc3R5bGUFGXdpZHRoOjE4N3B4O2hlaWdodDoxOTBweDseBWNsYXNzBRJOZXdzQ29udGFpbmVyQ2xhc3NkBSZnX2U2ODM1MDJhXzQ2NzNfNGQwZF9iOWI4XzM1NjA1NDBkNDEyNA9kFgJmD2QWAgIBDxYEHwEFGXdpZHRoOjE4N3B4O2hlaWdodDoxMzBweDsfAgUSTmV3c0NvbnRhaW5lckNsYXNzZAUmZ19kYTVlOGQwY18yYzBkXzQ0MTVfYTY4YV9hOGRlOWI0ZmQwYTMPZBYCZg9kFgICAQ8WBB8BBRl3aWR0aDoxODdweDtoZWlnaHQ6MTIzcHg7HwIFGFNwb3RsaWdodHNDb250YWluZXJDbGFzc2QCBQ9kFgICAg9kFgICBQ9kFgICAw8WAh4HVmlzaWJsZWgWAmYPZBYEAgIPZBYGAgEPFgIfA2hkAgMPFgIfA2hkAgUPFgIfA2hkAgMPDxYCHglBY2Nlc3NLZXkFAS9kZAIHD2QWAgIGD2QWCAIDD2QWAgIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIEFghmD2QWAmYPFQZDL05ld3NDZW50ZXIvUHVibGlzaGluZ0ltYWdlcy9fdy/Yp9iv2KfYsdipJTIw2KfZhNin2LLZhdin2KpfanBnLmpwZ0ovTmV3c0NlbnRlci9QdWJsaXNoaW5nSW1hZ2VzL9in2K/Yp9ix2KklMjDYp9mE2KfYstmF2KfYqi5qcGc/UmVuZGl0aW9uSUQ9NQQxNTA0X1RoZSBQcmVzaWRlbnQgb2YgSm9yZGFuIFVuaXZlcnNpdHkgb2YgU2NpZW5jZSBhbmQgVGVjaG5vbG9neSBtZWV0cyB0aGUgQWR2aXNvciBvZiB0aGUgTmF0aW9uLi4uiQFUaGUgUHJlc2lkZW50IG9mIEpvcmRhbiBVbml2ZXJzaXR5IG9mIFNjaWVuY2UgYW5kIFRlY2hub2xvZ3kgbWVldHMgdGhlIEFkdmlzb3Igb2YgdGhlIE5hdGlvbmFsIENlbnRlciBmb3IgU2VjdXJpdHkgYW5kIENyaXNpcyBNYW5hZ2VtZW50LgwgMDMgRGVjIDIwMThkAgEPZBYCZg8VBjEvTmV3c0NlbnRlci9QdWJsaXNoaW5nSW1hZ2VzL193L0RvZ2FyYV8wMl9qcGcuanBnOC9OZXdzQ2VudGVyL1B1Ymxpc2hpbmdJbWFnZXMvRG9nYXJhXzAyLmpwZz9SZW5kaXRpb25JRD01BDE1MDM/IlRoZSBGYWN1bHR5IG9mIFBoYXJtYWN5IGNvbmR1Y3RzIGEgZnJlZSBtZWRpY2FsIGRheSBpbiBEb2dhcmEiPyJUaGUgRmFjdWx0eSBvZiBQaGFybWFjeSBjb25kdWN0cyBhIGZyZWUgbWVkaWNhbCBkYXkgaW4gRG9nYXJhIgwgMDMgRGVjIDIwMThkAgIPZBYCZg8VBjAvTmV3c0NlbnRlci9QdWJsaXNoaW5nSW1hZ2VzL193L0RTQ18yMzE3X2pwZy5qcGc3L05ld3NDZW50ZXIvUHVibGlzaGluZ0ltYWdlcy9EU0NfMjMxNy5qcGc/UmVuZGl0aW9uSUQ9NQQxNTAyHktocmVpc2F0IE1lZXRzIEZhY3VsdHkgTWVtYmVycx5LaHJlaXNhdCBNZWV0cyBGYWN1bHR5IE1lbWJlcnMMIDAzIERlYyAyMDE4ZAIDD2QWAmYPFQY0L2FyL05ld3NDZW50ZXIvUHVibGlzaGluZ0ltYWdlcy9fdy9teSUyMGJpa2VfanBnLmpwZzsvYXIvTmV3c0NlbnRlci9QdWJsaXNoaW5nSW1hZ2VzL215JTIwYmlrZS5qcGc/UmVuZGl0aW9uSUQ9NQQxNTAxCSJNeSBCaWtlIgkiTXkgQmlrZSIMIDI1IE5vdiAyMDE4ZAIFD2QWAgIBD2QWAgIBDxYCHwUCAxYGZg9kFgJmDxUGAzc0NlLYp9i52YTYp9mGINio2K7YtdmI2LUg2YXZiNi52K8g2LnZgtivINin2YXYqtit2KfZhiDYp9mE2YPZgdin2KHYqSDYp9mE2KzYp9mF2LnZitipUtin2LnZhNin2YYg2KjYrti12YjYtSDZhdmI2LnYryDYudmC2K8g2KfZhdiq2K3Yp9mGINin2YTZg9mB2KfYodipINin2YTYrNin2YXYudmK2KkRIDE5IE5vdmVtYmVyIDIwMTgAAGQCAQ9kFgJmDxUGAzc0NUnYp9i52YTYp9mGINmE2YTZhdiq2YLYr9mF2YrZhiDZhNmI2LjZitmB2Kkg2YHZhtmKINmF2K7Yqtio2LEg2KrYtNiu2YrYtdmKSdin2LnZhNin2YYg2YTZhNmF2KrZgtiv2YXZitmGINmE2YjYuNmK2YHYqSDZgdmG2Yog2YXYrtiq2KjYsSDYqti02K7Ziti12YoRIDI1IE5vdmVtYmVyIDIwMTgAAGQCAg9kFgJmDxUGAzc0NIYB2KrYo9is2YrZhCDYp9mE2KfZhdiq2K3Yp9mG2KfYqiDZiNis2YXZiti5INin2YTZhti02KfYt9in2Kog2KfZhNij2K7YsdmJINmB2Yog2KfZhNis2KfZhdi52Kkg2KfZhNmF2YLYsdixINi52YLYr9mH2Kcg2YrZiNmFINin2YTYs9io2KqGAdiq2KPYrNmK2YQg2KfZhNin2YXYqtit2KfZhtin2Kog2YjYrNmF2YrYuSDYp9mE2YbYtNin2LfYp9iqINin2YTYo9iu2LHZiSDZgdmKINin2YTYrNin2YXYudipINin2YTZhdmC2LHYsSDYudmC2K/Zh9inINmK2YjZhSDYp9mE2LPYqNiqESAwOSBOb3ZlbWJlciAyMDE4AABkAgcPZBYCAgEPZBYCAgEPFgIfBQIBFgJmD2QWAmYPFQULIDI3PGJyLz5NYXICNThXVGhlIExhbmNldCBQYWxlc3RpbmlhbiBIZWFsdGggQWxsaWFuY2UgKExQSEEpIFRlbnRoIEFubnVhbCBDb25mZXJlbmNlIE1hcmNoIDI3LTI4LCAyMDE5I01hcmNoIDI3LTI4LCAyMDE5IGluIEFtbWFuLCBKb3JkYW4uI01hcmNoIDI3LTI4LCAyMDE5IGluIEFtbWFuLCBKb3JkYW4uZAIND2QWAgIBD2QWAmYPZBYCAgEPZBYCAgEPFgIfBQIBFgJmD2QWAmYPFQQXaHR0cHM6Ly90LmNvL1pXOURROG9OMXE6aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfYmFubmVycy8yNTk4NDgzMjcvMTQ2NDI0NDgwNBdodHRwczovL3QuY28vWlc5RFE4b04xcRdodHRwczovL3QuY28vWlc5RFE4b04xcWQCLw9kFgICAw9kFgICAQ8WAh8ACysEAWRkakm4o78Qtu/eoYNfH4iZkDc7AIEuB5MjxP6T+kcZGac=" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "http:\u002f\u002fwww.just.edu.jo", siteAbsoluteUrl: "http:\u002f\u002fwww.just.edu.jo", serverRequestPath: "\u002fPages\u002fDefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "JUST", webTemplate: "53", tenantAppVersion: "0", webLogoUrl: "\u002f_layouts\u002fimages\u002ftitlegraphic.gif", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2018-12-03T13:23:37.5613676Z") - new Date(), siteClientTag: "6645$$15.0.4569.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:200769},pageListId:"{c3c1410c-9faf-4aa1-b383-426f37fa4822}",pageItemId:33, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() 
+        {
+          ExecuteOrDelayUntilScriptLoaded(
+            function()
+            {
+              var pairs = SP.ScriptHelpers.getDocumentQueryPairs();
+              var followDoc, itemId, listId, docName;
+              for (var key in pairs)
+              {
+                if(key.toLowerCase() == 'followdocument') 
+                  followDoc = pairs[key];
+                else if(key.toLowerCase() == 'itemid') 
+                  itemId = pairs[key];
+                else if(key.toLowerCase() == 'listid') 
+                  listId = pairs[key];
+                else if(key.toLowerCase() == 'docname') 
+                  docName = decodeURI(pairs[key]);
+              } 
+
+              if(followDoc != null && followDoc == '1' && listId!=null && itemId != null && docName != null)
+              {
+                SP.SOD.executeFunc('followingcommon.js', 'FollowDocumentFromEmail', function() 
+                { 
+                  FollowDocumentFromEmail(itemId, listId, docName);
+                });
+              }
+
+            }, 'SP.init.js');
+
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+
+            if (typeof(SPClientTemplates) === 'undefined' || SPClientTemplates === null || (typeof(APD_InAssetPicker) === 'function' && APD_InAssetPicker())) {
+                return;
+            }
+
+            var renderFollowFooter = function(renderCtx,  calloutActionMenu)
+            {
+                if (renderCtx.ListTemplateType == 700) 
+                    myDocsActionsMenuPopulator(renderCtx, calloutActionMenu);
+                else
+                    CalloutOnPostRenderTemplate(renderCtx, calloutActionMenu);
+
+                var listItem = renderCtx.CurrentItem;
+                if (typeof(listItem) === 'undefined' || listItem === null) {
+                    return;
+                }
+                if (listItem.FSObjType == 0) {
+                    calloutActionMenu.addAction(new CalloutAction({
+                        text: Strings.STS.L_CalloutFollowAction,
+                        tooltip: Strings.STS.L_CalloutFollowAction_Tooltip,
+                        onClickCallback: function (calloutActionClickEvent, calloutAction) {
+                            var callout = GetCalloutFromRenderCtx(renderCtx);
+                            if (!(typeof(callout) === 'undefined' || callout === null))
+                                callout.close();
+                            SP.SOD.executeFunc('followingcommon.js', 'FollowSelectedDocument', function() { FollowSelectedDocument(renderCtx); });
+                        }
+                    }));
+                }
+            };
+
+            var registerOverride = function(id) {
+                var followingOverridePostRenderCtx = {};
+                followingOverridePostRenderCtx.BaseViewID = 'Callout';
+                followingOverridePostRenderCtx.ListTemplateType = id;
+                followingOverridePostRenderCtx.Templates = {};
+                followingOverridePostRenderCtx.Templates.Footer = function(renderCtx) {
+                    var  renderECB;
+                    if (typeof(isSharedWithMeView) === 'undefined' || isSharedWithMeView === null) {
+                        renderECB = true;
+                    } else {
+                        var viewCtx = getViewCtxFromCalloutCtx(renderCtx);
+                        renderECB = !isSharedWithMeView(viewCtx);
+                    }
+                    return CalloutRenderFooterTemplate(renderCtx, renderFollowFooter, renderECB);
+                };
+                SPClientTemplates.TemplateManager.RegisterTemplateOverrides(followingOverridePostRenderCtx);
+            }
+            registerOverride(101);
+            registerOverride(700);
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" />
+		
+		<!-- ===== STARTER: SharePoint Reqs this for adding columns ===================================================== -->
+		<script type="text/javascript"> var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } }; </script>
+
+		<!-- ===== STARTER: Web Part Manager  ============================================================================================= -->
+				
+		
+			<!-- ===== STARTER: ScriptManager ===================================================== -->
+			
+		
+			<!-- ===== STARTER: Ribbon Code Starts Here ===================================================== -->
+			<div>
+	
+	<div id="s4-ribbonrow" style="visibility:hidden;display:none"></div>
+
+</div>
+
+
+			<!-- ===== STARTER: Ribbon Code Ends Here  ======================================================================================== -->
+			
+			
+			<!-- ===== STARTER: Main Scrolling Body Starts Here =============================================================================== -->
+			<div id="s4-workspace">
+				<div id="s4-bodyContainer">
+					
+					<!-- ===== STARTER: This decides where the web part menu lives ===================================================== -->
+					<div id="ctl00_DeltaPlaceHolderMain">
+					
+						<!-- ===== STARTER: style.css adds width and margin =========================================================================================== -->
+						<div class="customWidth">
+						
+							<!-- ===== STARTER: SharePoint looks for this div ID s4-titlerow for the "Focus on Content" Button ======================== -->
+							<!--<div id="s4-titlerow">
+								
+							</div>-->
+							
+							<!-- ===== STARTER: Main Content ========================================================================================== -->
+							<!--<div id="contentBox">
+								
+							</div>-->
+							
+							<!--------------------------------------------------------->
+							<!-------------------- Start JUST Page -------------------->
+							<!--------------------------------------------------------->
+							<div class='wrapper just-master'>
+							
+								<!-------------------------------- header - start -------------------------------->
+								
+								
+								<!-------------------------------- header - start -------------------------------->
+								<div class="search-bar">
+									<div class="container">
+										
+										<div>
+											<div class="search-btn pull-right" id="btnSearch">
+												<!--<span class="glyphicon glyphicon-search"></span>-->
+												<i class="fa fa-search"></i>
+											</div>
+											<div class="search-txt pull-left">
+												<input type="text" placeholder="Search JUST" id="txtSearch" />
+											</div>
+											<div class="clear"></div>
+										</div>
+										
+									</div>
+								</div>
+								
+								
+								<div class='header'>
+									
+									<!--<div class='hidden-sm hidden-xs' style='position:absolute; top:0; left:0;'><img class='img-responsive' style='transform:scale(0.85);' src='/assets/just/images/THE_logo.png' /></div>-->
+									
+									<div class="container">
+										
+										<div>
+											
+											<!-------------------------------- menu-mobile - start -------------------------------->
+											<div class='menu-mob-btn pull-right visible-xs'>
+												<nav class="navbar navbar-default">
+													<div class="navbar-header">
+														<button type="button" class="navbar-toggle collapsed" id="btnOpenMenuMob">
+															<span class="sr-only">Toggle navigation</span>
+															<span class="icon-bar"></span>
+															<span class="icon-bar"></span>
+															<span class="icon-bar"></span>
+														</button>
+													</div>
+												</nav>
+											</div>
+											<!-------------------------------- menu-mobile - end ---------------------------------->
+											
+											<div class='top-menu pull-right'>
+												
+												<div class='search-icon pull-right' id="btnOpenSearch">
+													<!--<span class="glyphicon glyphicon-search"></span>-->
+													<i class="fa fa-search"></i>
+												</div>
+												
+												<div class='signin pull-right'>
+													<!-- ===== STARTER: Authentication / Login link hidden for everyone by anonymous users  =========================================== -->
+													<span>
+															
+<a id="ctl00_ctl52_ExplicitLogin" class="ms-signInLink" href="http://www.just.edu.jo/_layouts/15/Authenticate.aspx?Source=%2FPages%2FDefault%2Easpx" style="display:inline-block;">Sign In</a>
+
+													</span>
+													<!--<a href="#">Sign In</a>-->
+												</div>
+												
+												<div class='arabic pull-right'>
+													<a href="#" onclick='RedirectLang();'>عربي</a>
+												</div>
+												
+												<div class="dropdown quick-links pull-right hidden-xs">
+													<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quick Links <span class="caret"></span></a>
+													<ul class="dropdown-menu">
+														<li><a href="/reg/Pages/ApplyOnline.aspx" >Apply to JUST</a></li>
+														<li role="separator" class="divider"></li>
+														
+														<li><a href="/Pages/ComplaintForm.aspx" >Complaint / Suggestion Form</a></li>
+														<li><a href="/Pages/ConfJournals.aspx" >Conferences and Journals</a></li>
+														<li role="separator" class="divider"></li>
+														
+														<li><a href="/Pages/distinguished-employee-award.aspx" >Distinguished Employee Award</a></li>
+														<li role="separator" class="divider"></li>
+														
+														<li><a href="https://services.just.edu.jo/ServicesPortal/login.aspx" >Employee Portal</a></li>
+														<li><a href="/Pages/ExternalLinks.aspx" >External Links</a></li>
+														<li role="separator" class="divider"></li>
+														
+														<li><a href="/iso" >International Students Office</a></li>
+														<li><a href="/Centers/cic/Pages/Services.aspx" >IT Helpdesk Services</a></li>
+														<li role="separator" class="divider"></li>
+														
+														<li><a href="/Pages/JUST_Maps.aspx" >JUST Maps</a></li>
+														<li role="separator" class="divider"></li>
+														
+														<li><a href="http://e5.onthehub.com/d.ashx?s=jtp2n0ly3j" target="_blank">Microsoft Imagine</a></li>
+														<li role="separator" class="divider"></li>
+														
+														<li><a href="https://services.just.edu.jo/online" >Online Exams</a></li>
+														<li role="separator" class="divider"></li>
+														
+														<li><a href="/aboutjust/Pages/Regulations.aspx" >Regulations</a></li>
+														<li role="separator" class="divider"></li>
+														
+														<li><a href="/reg" >Students Portal</a></li>
+														<li role="separator" class="divider"></li>
+														
+														<li><a href="/news/Pages/Tenders.aspx" >Tenders</a></li>
+														
+													</ul>
+												</div>
+												
+												<div class='links pull-right hidden-xs'>
+													<ul class="nav navbar-nav">
+														<li><a href="/news/pages/jobopportunities.aspx">Jobs</a></li>
+														<li><a href="/teldir">Phone Directory</a></li>
+														<li><a href="http://www.just.edu.jo/Pages/JUST_AZ.aspx?letter=a">AZ</a></li>
+													</ul>
+												
+													<!--<nav class="navbar navbar-default">
+														<div class="">
+															<div class="navbar-header">
+																<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-menu" aria-expanded="false">
+																	<span class="sr-only">Toggle navigation</span>
+																	<span class="icon-bar"></span>
+																	<span class="icon-bar"></span>
+																	<span class="icon-bar"></span>
+																</button>
+															</div>
+								
+															<div class="collapse navbar-collapse" id="top-menu">
+																<ul class="nav navbar-nav navbar-right">
+																	<li><a href="/news/pages/jobopportunities.aspx">Jobs</a></li>
+																	<li><a href="/teldir">Phone Directory</a></li>
+																	<li><a href="http://www.just.edu.jo/Pages/JUST_AZ.aspx">AZ</a></li>
+																	
+																	<li class="dropdown quick-links">
+																		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quick Links <span class="caret"></span></a>
+																		<ul class="dropdown-menu">
+																			<li><a href="/reg/Pages/ApplyOnline.aspx" >Apply to JUST</a></li>
+																			<li role="separator" class="divider"></li>
+																			
+																			<li><a href="/Pages/ComplaintForm.aspx" >Complaint / Suggestion Form</a></li>
+																			<li><a href="/Pages/ConfJournals.aspx" >Conferences and Journals</a></li>
+																			<li role="separator" class="divider"></li>
+																			
+																			<li><a href="/Pages/distinguished-employee-award.aspx" >Distinguished Employee Award</a></li>
+																			<li role="separator" class="divider"></li>
+																			
+																			<li><a href="https://services.just.edu.jo/ServicesPortal/login.aspx" >Employee Portal</a></li>
+																			<li role="separator" class="divider"></li>
+																			
+																			<li><a href="http://www.just.edu.jo/iso" >International Students Office</a></li>
+																			<li role="separator" class="divider"></li>
+																			
+																			<li><a href="/Pages/JUST_Maps.aspx" >JUST Maps</a></li>
+																			<li role="separator" class="divider"></li>
+																			
+																			<li><a href="http://e5.onthehub.com/d.ashx?s=jtp2n0ly3j" target="_blank">Microsoft DreamSpark</a></li>
+																			<li role="separator" class="divider"></li>
+																			
+																			<li><a href="/aboutjust/Pages/Regulations.aspx" >Regulations</a></li>
+																			<li role="separator" class="divider"></li>
+																			
+																			<li><a href="/reg" >Students Portal</a></li>
+																			<li role="separator" class="divider"></li>
+																			
+																			<li><a href="/news/Pages/Tenders.aspx" >Tenders</a></li>
+																			
+																		</ul>
+																	</li>
+																	
+																</ul>
+															</div>
+														</div>
+													</nav>-->
+												</div>
+												
+												<div class='clear'></div>
+												
+											</div><!-- top-menu -->
+											
+											<div class='logo pull-left hidden-xs'>
+												<a href="/">
+													<img class='img-responsive' src="/assets/just/images/just_logo.png" />
+												</a>
+											</div><!-- logo -->
+											
+											<div class="logo-mob pull-left visible-xs">
+												<a class="navbar-brand" href="/">
+													<img class='pull-left' alt="Brand" src="/assets/just/images/just_logo_mob.png" />&nbsp; <!--<div class='just-title-mob pull-left'>JUST</div>-->
+													<div class='clear'></div>
+												</a>
+											</div>
+											
+											<!--<div class='visible-xs pull-right' style='margin-top:-5px; margin-right:10px;'>
+												<div class='pull-left' style=''><img class='img-responsive' style='/*transform:scale(0.50);*/ padding:10px; padding-right:0px;' src='/assets/just/images/THE_logo.png' /></div>
+												<div class='pull-left' style=''><img class='img-responsive' style='/*transform:scale(0.50);*/ padding:10px; padding-right:0px;' src='/assets/just/images/QS_logo.png' /></div>
+												
+											</div>-->
+											
+											<div class='clear'></div>
+										</div>
+										
+										<div class='social-links hidden-xs'>
+											<div class='pull-right'>
+												<a target='_blank' href='https://plus.google.com/102298974673649892861'><i class="fa fa-google-plus-square" aria-hidden="true"></i></a>
+												<a target='_blank' href='https://www.instagram.com/justuniversityjo/'><i class="fa fa-instagram" aria-hidden="true"></i></a>
+												<a target='_blank' href='https://www.youtube.com/channel/UCVLYZ-9I6nTA8-WgergKF0g'><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+												<a target='_blank' href='https://www.linkedin.com/edu/school?id=192021&trk=hp-feed-school-name'><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+												<a target='_blank' href='http://www.twitter.com/justedujo'><i class="fa fa-twitter" aria-hidden="true"></i></a>
+												<a target='_blank' href='https://www.facebook.com/pages/JUST-University/633721593348542?ref=hl'><i class="fa fa-facebook" aria-hidden="true"></i></a>
+											</div>
+										</div><!-- social-links -->
+										
+										<!--<div class='hidden-xs pull-right' style='margin-top:-60px;'>
+											<div class='pull-left' style=''><img class='img-responsive' style='/*transform:scale(0.50);*/ padding:10px;' src='/assets/just/images/THE_logo.png' /></div>
+											<div class='pull-left' style=''><img class='img-responsive' style='/*transform:scale(0.50);*/ padding:10px; padding-right:0px;' src='/assets/just/images/QS_logo.png' /></div>
+											<div class='clear' />
+										</div>-->
+										
+									</div><!-- container -->
+									
+									<!--<div class='hidden-sm hidden-xs' style='position:absolute; top:0; right:0;'><img class='img-responsive' style='transform:scale(0.85);' src='/assets/just/images/QS_logo.png' /></div>-->	
+								</div>
+								<!-------------------------------- header - end -------------------------------->
+								
+								
+								
+								
+								<!-------------------------------- menu mob - start -------------------------------->
+								<div class='menu-mob hidden-sm hidden-md hidden-lg'>
+							            
+					            	<ul class="nav navbar-nav">
+					            		<!--mmmmm-->
+					            		<li>
+											<a href="/"><i style="font-size: 18px;" class="fa fa-home"></i> Home</a>
+										</li>
+										<li class="dropdown">
+											<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">University<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+											<ul class="dropdown-menu">
+												<li><a href="/aboutjust"><i style="font-size: 18px;" class="fa fa-home"></i></a></li>
+												<li><a  href="/aboutjust/Pages/welcome.aspx">Welcome</a></li>
+												<li><a  href="/aboutjust/Pages/Vision%20and%20Mission.aspx">Vision and Mission</a></li>
+												<li><a  href="/aboutjust/Pages/Straregic%20Goals.aspx">Strategic Goals</a></li>
+												<li><a  href="/aboutjust/Pages/Facts.aspx">Facts and Highlights</a></li>					                                            
+												<li><a  href="/aboutjust/Pages/Publications.aspx">Publications</a></li>
+												<li><a  href="/aboutjust/Pages/Regulations.aspx">Regulations</a></li>
+												<li><a  href="/aboutjust/Pages/gallery.aspx">Gallery</a></li>
+												<li><a  href="/aboutjust/Presidency/Pages/UniversityGovernance.aspx">University Governance</a></li>
+												<li><a  href="/Units_and_offices/Pages/default.aspx">Units, Departments and Offices</a></li>
+											</ul>
+										</li>
+										<li class="dropdown">
+											<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Academics<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+											<ul class="dropdown-menu">
+												<li><a href="/academics"><i style="font-size: 18px;" class="fa fa-home"></i></a></li>
+												<li><a  href="/facultiesanddepartments/facultyofengineering">Engineering</a></li>
+												<li><a  href="/FacultiesandDepartments/FacultyofMedicine">Medicine</a></li>
+												<li><a  href="/FacultiesandDepartments/FacultyofDentistry">Dentistry</a></li>
+												<li><a  href="/FacultiesandDepartments/FacultyofPharmacy">Pharmacy</a></li>
+												<li><a  href="/FacultiesandDepartments/FacultyofNursing">Nursing</a></li>
+												<li><a  href="/FacultiesandDepartments/FacultyofAgriculture">Agriculture</a></li>
+												<li><a  href="/FacultiesandDepartments/FacultyOfVeterinaryMedicine">Veterinary Medicine</a></li>
+												<li><a  href="/FacultiesandDepartments/FacultyofScienceandArts">Science and Arts</a></li>
+												<li><a  href="/FacultiesandDepartments/it">Computer and Information Technology</a></li>
+												<li><a  href="/FacultiesandDepartments/FacultyofAppliedMedScs">Applied Medical Sciences</a></li>
+												<li><a  href="/FacultiesandDepartments/FacultyofArchitectureandDesign">Architecture and Design</a></li>
+												<li><a  href="/FacultiesandDepartments/FacultyofGraduateStudies">Graduate Studies</a></li>
+												<li><a  href="/FacultiesandDepartments/nano">Nanotechnology Institute</a></li>
+												<li><a  href="/Deanships/DeanshipofStudentsAffairs">Student Affairs Deanship</a></li>
+												<li><a  href="/Deanships/DeanshipofResearch">Deanship of Research</a></li>
+											</ul>
+										</li>
+										
+										<li class="dropdown">
+											<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Admission<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+											<ul class="dropdown-menu">
+												<li><a href="/admission"><i style="font-size: 18px;" class="fa fa-home"></i></a></li>
+												<li class="dropdown dropdown-submenu">
+													<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Undergraduate<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+													<ul class="dropdown-menu">
+														<li><a href="/Admission/undergraduate">Admission Requirements</a></li>
+														<li><a href="/Admission/undergraduate">Programs</a></li>
+														<!--<li><a href="/Admission/undergraduate/pages/fees.aspx">Fees</a></li>-->
+														<li><a target="_blank" href="https://services.just.edu.jo/applic/Documents/Fees.pdf">Fees</a></li>
+														<li><a  href="https://services.just.edu.jo/applic">Apply To JUST</a></li>
+													</ul>
+												</li>    
+												<li class="dropdown dropdown-submenu">
+													<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Graduate<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+													<ul class="dropdown-menu">
+														<li><a href="/Admission/Graduate">Admission Requirements</a></li>
+														<li><a href="/Admission/Graduate">Programs</a></li>
+														<li><a href="/Admission/Graduate/pages/fees.aspx">Fees</a></li>
+														<li><a  href="https://services.just.edu.jo/master_degree/login.aspx">Apply To JUST</a></li>
+													</ul>
+												</li>                                            
+											</ul>
+										</li>
+										
+										<li>
+											<a href="/Deanships/DeanshipofResearch">Research</a>
+										</li>
+										<li class="dropdown">
+											<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Centers<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+											<ul class="dropdown-menu">
+												<li><a href="/centers"><i style="font-size: 18px;" class="fa fa-home"></i></a></li>
+												<li><a  href="/Centers/AcademicDevelopmentCenter">Academic Development and Quality Assurance Center</a></li>
+												<li><a  href="/centers/justlearn">Center for E-Learning and Open Educational Resources</a></li>
+												<li><a  href="/Centers/ceip">Center of Excellence for Innovative Projects</a></li>
+												<li><a  href="/Centers/cic">Information Technology & Communications Center</a></li>
+												<li><a  href="/Centers/ConsultativeCenter">Consultative Center for Science and Technology</a></li>
+												<li><a  href="/Centers/DentalTeachingCenter">Dental Teaching Clinics</a></li>
+												<li><a  href="/dic">Drug Information Center</a></li>
+												<li><a  href="/Centers/HealthCenter">Health Center</a></li>
+												<li><a  href="/Centers/languagecenter">Language Center</a></li>
+												<li><a  href="/Centers/PharmaceuticalResearchCenter">Pharmaceutical Research Center</a></li>
+												<li><a  href="/Centers/PrincessHayaBiotechnologyCenter">Princess Haya Biotechnology Center</a></li>
+												<li><a  href="/Centers/QueenRaniaAl-AbdullahCenter">Queen Rania Al-Abdullah Center for Environmental Science and Technology</a></li>
+											</ul>
+										</li>
+										<li class="dropdown">
+											<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Students<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+											<ul class="dropdown-menu">
+												<li><a href="/students"><i style="font-size: 18px;" class="fa fa-home"></i></a></li>
+												<li class="dropdown dropdown-submenu">
+													<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Current Students<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+													<ul class="dropdown-menu">
+														<li><a target="_blank" href="https://elearning.just.edu.jo">eLearning</a></li>
+														<li><a  href="https://services.just.edu.jo/sturegistration">Registration</a></li>
+														<li><a  href="https://services.just.edu.jo/stuservices/">Students' Services</a></li>
+														<li><a target="_blank" href="http://mail.office365.com">Office 365 Email</a></li>
+														<li><a  href="https://services.just.edu.jo/CourseSchedule/Default_en.aspx">Course Schedule</a></li>
+														<li><a  href="https://services.just.edu.jo/ExamsSchedule/">Exams Schedule</a></li>
+														<li><a  href="/reg/Documents/reg_procedures_and_dates.pdf">Registration Procedures and Dates</a></li>
+														<li><a  href="/reg/Lists/Registration%20Announcements/AllItems.aspx">Registration Announcements</a></li>
+														<li><a  href="/calendar">Academic Calendar</a></li>
+														<li><a  href="http://justforjust.net/">JUST FOR JUST Newspaper</a></li>
+													</ul>
+												</li>
+												<li style="display: none;" class="dropdown dropdown-submenu">
+													<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Campus Life<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+													<ul class="dropdown-menu">
+														<li><a href="#">Life at JUST</a></li>
+														<li><a href="#">Housing and Dining</a></li>
+														<li><a href="#">Health and Wellness</a></li>
+														<li><a href="#">Safety and Security</a></li>
+														<li><a href="#">Gym and Athletics</a></li>
+														<li><a href="#">Entrepreneurship and Innovation</a></li>	                                                    
+													</ul>
+												</li>
+											</ul>
+										</li>
+										
+										<li class="dropdown">
+											<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Alumni<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+											<ul class="dropdown-menu">
+												<li><a href="/Units_and_offices/Offices/alumni"><i style="font-size: 18px;" class="fa fa-home"></i></a></li>
+												<li><a target="_blank" href="http://oldwww.just.edu.jo/alumni_info">Update Your Details</a></li>
+												<li><a  href="/Units_and_offices/Offices/alumni/Pages/careers-services.aspx">Careers and Services</a></li>
+												<li><a  href="/Units_and_offices/Offices/alumni/Pages/alumni-profiles.aspx">Alumni Profiles</a></li>
+												<li><a  href="/Units_and_offices/Offices/alumni/Pages/memories.aspx">Memories</a></li>
+												<li><a  href="http://oldwww.just.edu.jo/alumniweb">Graduates Registration</a></li>
+												<li><a  href="/FacultiesandDepartments/FacultyofGraduateStudies">Graduate Studies</a></li>
+												<li><a href="/aboutjust/Pages/gallery.aspx">Gallery</a></li>
+											</ul>
+										</li> 
+										  
+										<li class="dropdown">
+											<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Library<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+											<ul class="dropdown-menu">
+												<li><a href="/library"><i style="font-size: 18px;" class="fa fa-home"></i></a></li>
+												<li><a href="http://just.summon.serialssolutions.com" target="_blank">Summon Search</a></li>
+												<li><a href='/library/pages/redir.aspx?URL=http://search.ebscohost.com/login.aspx?authtype=IP,cookie,UID&group=main&profile=eds' target="_blank" >EDS (EBSCO Discovery Service)</a></li>
+												<li><a href="/library/pages/eResourcesAz.aspx" >E-Resources A-Z</a></li>
+												<li><a href="http://just.coe.deep-knowledge.net" target="_blank">JUST Deep Knowledge</a></li>					                                        
+											</ul>
+										</li>   
+										
+										<li class="dropdown">
+											<a aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#">Quick Links<span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+											<ul class="dropdown-menu">
+												
+												<li><a href="/news/pages/jobopportunities.aspx">Jobs</a></li>
+			                                	<li><a href="/teldir">Phone Directory</a></li>
+			                                	<li><a href="http://www.just.edu.jo/Pages/JUST_AZ.aspx">AZ</a></li>
+			                                	
+												<li><a href="/reg/Pages/ApplyOnline.aspx" >Apply to JUST</a></li>
+												<li><a href="/Pages/ComplaintForm.aspx" >Complaint / Suggestion Form</a></li>
+												<li><a href="/Pages/ConfJournals.aspx" >Conferences and Journals</a></li>
+												<li><a href="/Pages/distinguished-employee-award.aspx" >Distinguished Employee Award</a></li>
+												<li><a href="/Pages/ExternalLinks.aspx" >External Links</a></li>
+												<li><a href="/iso" >International Students Office</a></li>
+												<li><a href="/Centers/cic/Pages/Services.aspx" >IT HelpDesk Services</a></li>
+												<li><a href="/Pages/JUST_Maps.aspx" >JUST Maps</a></li>
+												<li><a href="http://e5.onthehub.com/d.ashx?s=jtp2n0ly3j" target="_blank">Microsoft Imagine</a></li>
+												<li><a href="https://services.just.edu.jo/online" >Online Exams</a></li>
+												<li><a href="/aboutjust/Pages/Regulations.aspx" >Regulations</a></li>
+												<li><a href="/news/Pages/Tenders.aspx" >Tenders</a></li>
+											</ul>
+										</li>
+					            		<!--mmmmm-->
+					            	</ul>
+					                
+					            </div><!-- menu-mob -->
+					            <!-------------------------------- menu mob - end -------------------------------->
+							
+							
+							
+								<!------------------------------------------------------------------------------------------------>
+								<div class="main-menu-container hidden-xs">
+								
+							        <!-------------------------------- main-menu - start -------------------------------->
+							        <div class='main-menu'>
+							        	<div class="container">
+								        	<nav class="navbar navbar-default navbar-centered">
+								                <div class="">
+								                    <div class="navbar-header">
+								                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+								                            <span class="sr-only">Toggle navigation</span>
+								                            <span class="icon-bar"></span>
+								                            <span class="icon-bar"></span>
+								                            <span class="icon-bar"></span>
+								                        </button>
+								                    </div>
+								
+								                    <div class="collapse navbar-collapse" id="Div2">
+								                        <ul class="nav navbar-nav main-menu-links">
+								                        	<li><a id='about' href="/aboutjust">University <span class="caret"></span></a></li>
+								                            <li><a id='academics' href="/academics">Academics <span class="caret"></span></a></li>
+								                            <li><a id='admission' href="/admission">Admission <span class="caret"></span></a></li>
+								                            <li><a id='centers' href="/centers">Centers <span class="caret"></span></a></li>
+								                            <li><a id='research' href="/Deanships/DeanshipofResearch">Research</a></li>
+								                            <li><a id='students' href="/students">Students <span class="caret"></span></a></li>
+								                            <li><a id='library' href="/library">Library <span class="caret"></span></a></li>
+								                            <li><a id='alumni' href="/Units_and_offices/Offices/alumni">Alumni <span class="caret"></a></li>
+								                        </ul>
+								                    </div>
+								                </div>
+								            </nav>
+								        </div>
+							        </div><!-- main-menu -->
+							        
+							        <!------ main-menu-sub ------------------------------------------------------------------------------------------------>
+							        <div class='main-menu-sub'>
+						        	
+							            <div id='aboutSub' class='sub-menu' style='display: none;'><!-- about -->
+							                <div class='container'>
+							                    <div class='row'>
+							                        <div class='col-sm-3 text-center'>
+							                            <img class='img-responsive cat-img center-block' src="/assets/just/images/sub-menu/about.jpg" />
+							                            <br />
+							                            <a class="btn text-center"  href="/aboutjust">View More</a>
+							                        </div>
+							                        <div class='col-sm-9'>
+							                            <div class='row'>
+							                                <div class='col-sm-6'>
+							                                    <ul class="sub-menu-ul">
+			                                                        <li><a  href="/aboutjust/Pages/welcome.aspx">Welcome</a></li>
+						                                            <li><a  href="/aboutjust/Pages/Vision%20and%20Mission.aspx">Vision and Mission</a></li>
+						                                            <li><a  href="/aboutjust/Pages/Straregic%20Goals.aspx">Strategic Goals</a></li>
+						                                            <li><a  href="/aboutjust/Pages/Facts.aspx">Facts</a></li>
+						                                            <li><a  href="/aboutjust/Pages/Highlights.aspx">Highlights</a></li>
+						                                            <li><a  href="/aboutjust/Pages/Organizational-Structure.aspx">Organizational Structure</a></li>
+		                                                        </ul>
+							                                </div>
+							                                <div class='col-sm-6'>
+							                                    <ul class="sub-menu-ul">
+							                                        <ul class="sub-menu-ul">
+			                                                            <li><a  href="/aboutjust/Pages/Publications.aspx">Publications</a></li>
+							                                            <li><a  href="/aboutjust/Pages/Regulations.aspx">Regulations</a></li>
+							                                            <li><a  href="/aboutjust/Pages/gallery.aspx">Gallery</a></li>
+							                                            <li><a  href="/aboutjust/Presidency/Pages/UniversityPresidency.aspx">University Governance</a></li>
+							                                            <li><a  href="/Units_and_offices">Units, Departments and Offices</a></li>
+							                                            <li><a  href="/Units_and_offices/Offices/IRO">International Relations Office</a></li>
+			                                                        </ul>
+							                                    </ul>
+							                                </div>
+							                            </div>
+							                        </div>
+							                    </div>
+							                </div>
+							            </div><!-- about -->
+							        
+							            <div id='academicsSub' class='sub-menu' style='display: none;'><!-- academics -->
+							                <div class='container'>
+							                    <div class='row'>
+							                        <div class='col-sm-3 text-center'>
+							                            <img class='img-responsive cat-img center-block' src="/assets/just/images/sub-menu/academics.jpg" />
+							                            <br />
+							                            <a class="btn text-center"  href="/Academics">View More</a>
+							                        </div>
+							                        <div class='col-md-6 col-sm-9'>
+							                            <div class='row'>
+							                                <div class='col-sm-6'>
+							                                    <ul class="sub-menu-ul">
+							                                        <li><a href="/facultiesanddepartments/facultyofengineering" >Engineering</a></li>
+							                                        <li><a href="/FacultiesandDepartments/FacultyofMedicine" >Medicine</a></li>
+							                                        <li><a href="/FacultiesandDepartments/FacultyofDentistry" >Dentistry</a></li>
+							                                        <li><a href="/FacultiesandDepartments/FacultyofPharmacy" >Pharmacy</a></li>
+							                                        <li><a href="/FacultiesandDepartments/FacultyofNursing" >Nursing</a></li>
+							                                        <li><a href="/FacultiesandDepartments/FacultyofAgriculture" >Agriculture</a></li>
+							                                        <li><a href="/FacultiesandDepartments/FacultyOfVeterinaryMedicine" >Veterinary
+							                                            Medicine</a></li>
+							                                    </ul>
+							                                </div>
+							                                <div class='col-sm-6'>
+							                                    <ul class="sub-menu-ul">
+							                                        <li><a href="/FacultiesandDepartments/FacultyofScienceandArts" >Science
+							                                            and Arts</a></li>
+							                                        <li><a href="/FacultiesandDepartments/it" >Computer and Information Technology</a></li>
+							                                        <li><a href="/FacultiesandDepartments/FacultyofAppliedMedScs" >Applied
+							                                            Medical Sciences</a></li>
+							                                        <li><a href="/FacultiesandDepartments/FacultyofArchitectureandDesign" >
+							                                            Architecture and Design</a></li>
+							                                        <li><a href="/FacultiesandDepartments/FacultyofGraduateStudies" >Graduate
+							                                            Studies</a></li>
+							                                        <li><a href="/FacultiesandDepartments/nano" >Nanotechnology Institute</a></li>
+							                                    </ul>
+							                                </div>
+							                            </div>
+							                        </div>
+							                        <div class='col-md-3 col-sm-12'>
+							                            <div class='row'>
+							                                <div class='col-sm-3'>
+							                                </div>
+							                                <div class='col-md-12 col-sm-4'>
+							                                    <a class="btn text-center"  href="/Deanships/DeanshipofResearch">Deanship
+							                                        of Research</a>
+							                                </div>
+							                                <div class='col-md-12 col-sm-5'>
+							                                    <a class="btn text-center"  href="/Deanships/DeanshipofStudentsAffairs">
+							                                        Deanship of Student Affairs</a>
+							                                </div>
+							                            </div>
+							                        </div>
+							                    </div>
+							                </div>
+							            </div><!-- academics -->
+							            
+							            <div id='admissionSub' class='sub-menu' style='display: none;'><!-- admission -->
+							                <div class='container'>
+							                    <div class='row'>
+							                        <div class='col-sm-3 text-center'>
+							                            <img class='img-responsive cat-img center-block' src="/assets/just/images/sub-menu/admission.jpg" />
+							                            <br />
+							                            <a class="btn text-center"  href="/Admission">View More</a>
+							                        </div>
+							                        <div class='col-sm-4'>
+							                            <div class='cat-title'>
+							                                Undergraduate
+							                            </div>
+							                            <ul class="sub-menu-ul">
+							                                <li><a href="/Admission/undergraduate">Admission Requirements</a></li>
+							                                <li><a href="/Admission/undergraduate">Programs</a></li>
+							                                <!--<li><a href="/Admission/undergraduate/pages/fees.aspx">Fees</a></li>-->
+							                                <li><a target="_blank" href="https://services.just.edu.jo/applic/Documents/Fees.pdf">Fees</a></li>
+							                                <li><a class="btn text-center"  href="https://services.just.edu.jo/applic">
+							                                    Apply To JUST</a></li>
+							                            </ul>
+							                        </div>
+							                        <div class='col-sm-4'>
+							                            <div class='cat-title'>
+							                                Graduate
+							                            </div>
+							                            <ul class="sub-menu-ul">
+							                                <li><a href="/Admission/Graduate">Admission Requirements</a></li>
+							                                <li><a href="/Admission/Graduate">Programs</a></li>
+							                                <li><a href="/Admission/Graduate/pages/fees.aspx">Fees</a></li>
+							                                <li><a class="btn text-center"  href="https://services.just.edu.jo/master_degree/login.aspx">
+							                                    Apply To JUST</a></li>
+							                            </ul>
+							                        </div>
+							                    </div>
+							                </div>
+							            </div><!-- admission -->
+							            
+							            <div id='centersSub' class='sub-menu' style='display: none;'><!-- centers -->
+							                <div class='container'>
+							                    <div class='row'>
+							                        <div class='col-sm-3 text-center'>
+							                            <img class='img-responsive cat-img center-block' src="/assets/just/images/sub-menu/centers.jpg" />
+							                            <br />
+							                            <a class="btn text-center"  href="/centers">View More</a>
+							                        </div>
+							                        <div class='col-sm-9'>
+							                            <div class='row'>
+							                                <div class='col-sm-6'>
+							                                    <ul class="sub-menu-ul">
+							                                        <li><a  href="/Centers/AcademicDevelopmentCenter">Academic Development and Quality Assurance Center</a></li>
+							                                        <li><a  href="/centers/justlearn">Center for E-Learning and Open Educational Resources</a></li>
+							                                        <li><a  href="/Centers/ceip">Center of Excellence for Innovative Projects</a></li>
+							                                        <li><a  href="/Centers/cic">Information Technology & Communications Center</a></li>
+							                                        <li><a  href="/Centers/ConsultativeCenter">Consultative Center for Science and Technology</a></li>
+							                                        <li><a  href="/Centers/DentalTeachingCenter">Dental Teaching Clinics</a></li>
+							                                    </ul>
+							                                </div>
+							                                <div class='col-sm-6'>
+							                                    <ul class="sub-menu-ul">
+								                                    <li><a  href="/dic">Drug Information Center</a></li>
+							                                    	<li><a  href="/Centers/HealthCenter">Health Center</a></li>
+							                                    	<li><a  href="/Centers/languagecenter">Language Center</a></li>
+							                                        <li><a  href="/Centers/PharmaceuticalResearchCenter">Pharmaceutical Research Center</a></li>
+							                                        <li><a  href="/Centers/PrincessHayaBiotechnologyCenter">Princess Haya Biotechnology Center</a></li>
+							                                        <li><a  href="/Centers/QueenRaniaAl-AbdullahCenter">Queen Rania Al-Abdullah Center for Environmental Science and Technology</a></li>
+							                                    </ul>
+							                                </div>
+							                            </div>
+							                        </div>
+							                    </div>
+							                </div>
+							            </div><!-- centers -->
+							            
+							            <div id='studentsSub' class='sub-menu' style='display: none;'><!-- students -->
+							                <div class='container'>
+							                    <div class='row'>
+							                        <div class='col-sm-3 text-center'>
+							                            <img class='img-responsive cat-img center-block' src="/assets/just/images/sub-menu/students.jpg" />
+							                            <br />
+							                            <a class="btn text-center"  href="/students">View More</a>
+							                        </div>
+							                        <div class='col-sm-9'>
+							                            <div class='row'>
+							                                <div class='col-sm-6'>
+							                                    <ul class="sub-menu-ul">
+							                                        <li><a target="_blank" href="https://elearning.just.edu.jo">eLearning</a></li>
+							                                        <li><a  href="/reg">Student Portal</a></li>
+							                                        <li><a  href="https://services.just.edu.jo/sturegistration">Registration</a></li>
+							                                        <li><a  href="https://services.just.edu.jo/stuservices/">Students' Services</a></li>
+							                                        <li><a target="_blank" href="http://mail.office365.com">Office 365 Email</a></li>
+							                                        <li><a target="_blank" href="http://justforjust.net/">JUST FOR JUST Newspaper</a></li>
+							                                    </ul>
+							                                </div>
+							                                <div class='col-sm-6'>
+							                                    <ul class="sub-menu-ul">
+							                                        <li><a  href="https://services.just.edu.jo/CourseSchedule/Default_en.aspx">
+							                                            Course schedule</a></li>
+							                                        <li><a  href="https://services.just.edu.jo/ExamsSchedule/">Exams Schedule</a></li>
+							                                        <li><a  href="/reg/Documents/reg_procedures_and_dates.pdf">Registration
+							                                            Procedures and Dates</a></li>
+							                                        <li><a  href="/reg/Lists/Registration%20Announcements/AllItems.aspx">
+							                                            Registration Announcements</a></li>
+							                                        <li><a  href="/calendar">Academic Calendar</a></li>
+							                                    </ul>
+							                                </div>
+							                            </div>
+							                        </div>
+							                    </div>
+							                </div>
+							            </div><!-- students -->
+							            
+							            <div id='librarySub' class='sub-menu' style='display: none;'><!-- library -->
+							                <div class='container'>
+							                    <div class='row'>
+							                        <div class='col-sm-3 text-center'>
+							                            <img class='img-responsive cat-img center-block' src="/assets/just/images/sub-menu/library.jpg" />
+							                            <br />
+							                            <a class="btn text-center"  href="/library">View More</a>
+							                        </div>
+							                        <div class='col-sm-9'>
+							                            <ul class="sub-menu-ul">
+							                                <li><a href="http://just.summon.serialssolutions.com" target="_blank">Summon Search</a></li>
+							                                <li><a href='/library/pages/redir.aspx?URL=http://search.ebscohost.com/login.aspx?authtype=IP,cookie,UID&group=main&profile=eds' target="_blank" >EDS (EBSCO Discovery Service)</a></li>
+							                                <li><a href="/library/pages/eResourcesAz.aspx" >E-Resources A-Z</a></li>
+							                                <li><a href="http://just.coe.deep-knowledge.net" target="_blank">JUST Deep Knowledge</a></li>
+							                            </ul>
+							                        </div>
+							                    </div>
+							                </div>
+							            </div><!-- library -->
+							            
+							            <div id='alumniSub' class='sub-menu' style='display: none;'><!-- alumni -->
+							                <div class='container'>
+							                    <div class='row'>
+							                        <div class='col-sm-3 text-center'>
+							                            <img class='img-responsive cat-img center-block' src="/assets/just/images/sub-menu/alumni.jpg" />
+							                            <br />
+							                            <a class="btn text-center"  href="/Units_and_offices/Offices/alumni">View More</a>
+							                        </div>
+							                        <div class='col-sm-9'>
+							                            <div class='row'>
+							                                <div class='col-sm-6'>
+							                                    <ul class="sub-menu-ul">
+							                                        <li><a  href="http://oldwww.just.edu.jo/alumni_info">Update Your Details</a></li>
+																	<li><a  href="/Units_and_offices/Offices/alumni/Pages/careers-services.aspx">Careers and Services</a></li>
+																	<li><a  href="/Units_and_offices/Offices/alumni/Pages/alumni-profiles.aspx">Alumni Profiles</a></li>
+																	<li><a  href="/Units_and_offices/Offices/alumni/Pages/memories.aspx">Memories</a></li>
+							                                    </ul>
+							                                </div>
+							                                <div class='col-sm-6'>
+							                                    <ul class="sub-menu-ul">
+							                                        <li><a  href="http://oldwww.just.edu.jo/alumniweb">Graduates Registration</a></li>
+																	<li><a  href="/FacultiesandDepartments/FacultyofGraduateStudies">Graduate Studies</a></li>
+																	<li><a href="/aboutjust/Pages/gallery.aspx">Gallery</a></li>
+							                                    </ul>
+							                                </div>
+							                            </div>
+							                        </div>
+							                    </div>
+							                </div>
+							            </div><!-- alumni -->
+							            
+							        </div><!-- main-menu-sub -->
+							        <!------ main-menu-sub ------------------------------------------------------------------------------------------------>
+							        
+							        <!-------------------------------- main-menu - end -------------------------------->
+								</div><!-- main-menu-container -->
+								
+
+	
+								<div class='main-holder'>
+									
+									<div class="site-name">
+										<div class="container text-left">
+											
+												<a id="ctl00_PlaceHolderSiteName_onetidProjectPropertyTitle" href="/">JUST</a>
+											
+										</div>
+									</div>
+									
+									<div>
+										
+	
+	<div class="home-content">
+	
+	    <!-------------------------------- banner - start -------------------------------->
+	    
+	    <div id="ctl00_PlaceHolderMain_ucBanner_dWebpart" class="banner">
+	<div id="banner" class="carousel slide" data-ride="carousel">
+		<ol id="ctl00_PlaceHolderMain_ucBanner_olIndicators" class="carousel-indicators">
+			<!--<li data-target="#banner" data-slide-to="0" class="active"></li>
+			<li data-target="#banner" data-slide-to="1"></li>
+			<li data-target="#banner" data-slide-to="2"></li>-->
+		<li data-target='#banner' data-slide-to='0' class='active'></li> <li data-target='#banner' data-slide-to='1' ></li> <li data-target='#banner' data-slide-to='2' ></li> <li data-target='#banner' data-slide-to='3' ></li> <li data-target='#banner' data-slide-to='4' ></li> </ol>
+		
+		<div id="ctl00_PlaceHolderMain_ucBanner_divItems" class="carousel-inner" role="listbox">
+			
+			<!--<div class="item active">
+				<div class="qs"></div>
+				<div class="layer"></div>
+				
+				<div class="banner-box">
+					<div class="banner-title text-center">
+						<a href="/Pages/QS.aspx">QS Beautiful Campuses</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="item">
+				<div class="nano"></div>
+				<div class="layer"></div>
+				
+				<div class="banner-box">
+					<div class="banner-title text-center">
+						<a href="/FacultiesandDepartments/nano">The Institute of Nanotechnology at JUST</a>
+					</div>
+				</div>
+			</div>-->
+			
+		<div class='item active'><div><img class='img-responsive' src='http://www.just.edu.jo/PublishingImages/Banner/us_news_rank_2019.jpg' /></div><div class='layer'></div><div class='banner-box'><div class='banner-title text-center'><a href=''>JUST advances 144 points in US News Global Ranking for 2019 and lands first locally</a></div></div></div><div class='item'><div><img class='img-responsive' src='http://www.just.edu.jo/PublishingImages/Banner/THE_Rank_400.jpg' /></div><div class='layer'></div><div class='banner-box'><div class='banner-title text-center'><a href=''>JUST Ranks among the Top 400 Univresities Worldwide</a></div></div></div><div class='item'><div><img class='img-responsive' src='http://www.just.edu.jo/PublishingImages/Banner/THE68.jpg' /></div><div class='layer'></div><div class='banner-box'><div class='banner-title text-center'><a href=''>JUST Ranked 68 Among Asian Universities 2018</a></div></div></div><div class='item'><div><img class='img-responsive' src='http://www.just.edu.jo/PublishingImages/Banner/qs5.jpg' /></div><div class='layer'></div><div class='banner-box'><div class='banner-title text-center'><a href=''>JUST is Rated QS Five Stars for Excellence</a></div></div></div><div class='item'><div><img class='img-responsive' src='http://www.just.edu.jo/PublishingImages/Banner/JUST_4I.jpg' /></div><div class='layer'></div><div class='banner-box'><div class='banner-title text-center'><a href='http://www.just.edu.jo/ar/NewsCenter/Lists/JustNews/DisplayItem.aspx?ID=1211'>"JUST 4 I’s 2020"</a></div></div></div></div>
+	</div>
+	
+</div>
+
+
+
+	    
+	    <!--<div class='banner'>
+	        <div id="banner" class="carousel slide" data-ride="carousel">
+	            <ol class="carousel-indicators">
+	                <li data-target="#banner" data-slide-to="0" class="active"></li>
+	                <li data-target="#banner" data-slide-to="1"></li>
+	                <li data-target="#banner" data-slide-to="2"></li>
+	            </ol>
+	            
+	            <div class="carousel-inner" role="listbox">
+	                
+	                <div class="item active">
+	                	<div class="qs"></div>
+	                	<div class="layer"></div>
+	                	
+	            		<div class="banner-box">
+	                		<div class="banner-title text-center">
+	                			<a href="/Pages/QS.aspx">QS Beautiful Campuses</a>
+	                		</div>
+	            		</div>
+	                </div>
+	                
+	                <div class="item">
+	                	<div class="nano"></div>
+	                	<div class="layer"></div>
+	                	
+	            		<div class="banner-box">
+	                		<div class="banner-title text-center">
+	                			<a href="/FacultiesandDepartments/nano">The Institute of Nanotechnology at JUST</a>
+	                		</div>
+	            		</div>
+	                </div>
+	                
+	                <div class="item">
+	                	<div class="satellite"></div>
+	                	<div class="layer"></div>
+	                	
+	            		<div class="banner-box">
+	                		<div class="banner-title text-center">
+	                			<a href="/Pages/Satellite.aspx">First Jordanian Satellite Programme</a>
+	                		</div>
+	            		</div>
+	    			</div>
+	                
+	            </div>
+	        </div>
+	        
+	    </div>-->
+	    <!-------------------------------- banner - end -------------------------------->
+	
+	
+		<!-------------------------------- online services - start ----------------------------->
+		<div class="online-services">
+			<div class="container">
+				<div class='row'>
+					<div class="col-md-3">
+						<div class="row">
+							<div class='col-xs-6 text-center'>
+				                <a href='https://elearning.just.edu.jo/' class='elearning center-block'>
+				                    eLearning
+				                </a>
+				            </div>
+				            <div class='col-xs-6 text-center'>
+				                <a href='https://services.just.edu.jo/stuservices' class='stu-services center-block'>
+				                    Student Services
+				                </a>
+				            </div>
+						</div>
+					</div>
+					
+					<div class="col-md-3">
+						<div class="row">
+							<div class='col-xs-6 text-center'>
+				                <a href='https://services.just.edu.jo/sturegistration' class='stu-reg center-block'>
+				                    Courses Registration
+				                </a>
+				            </div>
+				            <div class='col-xs-6 text-center'>
+				                <a href='grading-system.aspx' class='grading center-block'>
+				                    Grading System
+				                </a>
+				            </div>
+						</div>
+					</div>
+					
+					<div class="col-md-3">
+						<div class="row">
+							<div class='col-xs-6 text-center'>
+				                <a href='https://services.just.edu.jo/ServicesPortal' class='emp-services center-block'>
+				                    Employee Portal
+				                </a>
+				            </div>
+				            <div class='col-xs-6 text-center'>
+				                <a href='http://outlook.just.edu.jo/' class='email center-block'>
+				                    Email
+				                </a>
+				            </div>
+						</div>
+					</div>
+					
+					<div class="col-md-3">
+						<div class="row">
+							<div class='col-xs-6 text-center'>
+				                <a href='/calendar' class='calendar center-block'>
+				                    Academic Calendar
+				                </a>
+				            </div>
+				            <div class='col-xs-6 text-center'>
+				                <a href='JUST_Maps.aspx' class='maps center-block'>
+				                    JUST Maps
+				                </a>
+				            </div>
+						</div>
+					</div>
+					
+					
+					<!----------------------- old structure ------------------------->
+		            <!--
+		            <div class='col-xs-6 col-sm-4 col-md-2 text-center'>
+		                <a href='https://elearning.just.edu.jo/' class='elearning center-block'>
+		                    eLearning
+		                </a>
+		            </div>
+		            <div class='col-xs-6 col-sm-4 col-md-2 text-center'>
+		                <a href='https://services.just.edu.jo/stuservices' class='stu-services center-block'>
+		                    <div>Student Services</div>
+		                </a>
+		            </div>
+		            <div class='col-xs-6 col-sm-4 col-md-2 text-center'>
+		                <a href='https://services.just.edu.jo/sturegistration' class='stu-reg center-block'>
+		                    <div>Courses Registration</div>
+		                </a>
+		            </div>
+		            <div class='col-xs-6 col-sm-4 col-md-2 text-center'>
+		                <a href='#' class='grading center-block'>
+		                    <div>Grading System</div>
+		                </a>
+		            </div>
+		            <div class='col-xs-6 col-sm-4 col-md-2 text-center'>
+		                <a href='https://services.just.edu.jo/ServicesPortal' class='emp-services center-block'>
+		                    <div>Employee Portal</div>
+		                </a>
+		            </div>
+		            <div class='col-xs-6 col-sm-4 col-md-2 text-center'>
+		                <a href='http://outlook.just.edu.jo/' class='email center-block'>
+		                    <div>Email</div>
+		                </a>
+		            </div>
+		            <div class='col-xs-6 col-sm-4 col-md-2 text-center'>
+		                <a href='/calendar' class='calendar center-block'>
+		                    <div>Academic Calendar</div>
+		                </a>
+		            </div>
+		            <div class='col-xs-6 col-sm-4 col-md-2 text-center'>
+		                <a href='JUST_Maps.aspx' class='maps center-block'>
+		                    <div>JUST Maps</div>
+		                </a>
+		            </div>
+		            -->
+		            <!----------------------- old structure ------------------------->
+		            
+		        </div>
+			</div>
+		</div>
+		<!-------------------------------- online services -   end ----------------------------->
+		
+		
+		<!--<div class="king-essay">
+			<a target="_blank" href="https://rhc.jo/ar/media/news/جلالة-الملك-عبدالله-الثاني-ينشر-مقالا-بعنوان-منصات-التواصل-أم-التناحر-الاجتماعي؟"><img class="img-responsive" src="/assets/just/images/king_abdullah_essay_row.jpg" alt="king-essay" /></a>
+		</div>-->
+		
+		
+		<!-------------------------------- facts - start --------------------------------->
+		<div class="facts">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-md-4">
+						
+						<div class='spotlight-container'>
+	                        <!--<img class='img-responsive' src="/assets/just/images/spotlight-bg.jpg" />-->
+	                        <img class='img-responsive' src="/assets/just/images/apply-bg.jpg" />
+	                        
+	                        <div class="spotlight-layer">
+	                        	<div class="spotlight-head text-center"><a href="/reg/Pages/ApplyOnline.aspx">Apply to JUST</a></div>
+		                        <div class="spotlight-content">
+		                        	<div class="facts-btns">
+			                    		<a class="btn text-center" target="_blank" href="https://services.just.edu.jo/applic">Undergraduate</a>
+			                    		&nbsp;&nbsp;&nbsp;&nbsp;
+			                    		<a class="btn text-center" target="_blank" href="https://services.just.edu.jo/master_degree">Graduate</a>
+			                    	</div>
+		                        	</div>
+	                        </div>
+	                    </div>
+	                    
+	                    <div class='isa-container'>
+	                    	<a target="_blank" href="http://studyinjordan.jo">
+		                        <img class='img-responsive' src="/assets/just/images/isa-bg.jpg" />
+	                        </a>
+	                    </div>
+	                    
+					</div>
+					
+					<div class="col-sm-8 col-md-8">
+						<div class='facts-container'>
+	                        <img class='img-responsive' src="/assets/just/images/facts-bg.jpg" />
+	                        
+	                        <div class="facts-layer"></div>
+	                        
+	                    	<div class="facts-head text-right"><span>Building</span> Future Leaders</div>
+	                    	
+	                    	<div class="facts-content">
+		                    	<div class="facts-box"><span>12</span> Faculties</div>
+		                    	<div class="facts-box"><span>84</span> Departments</div>
+	                    	</div>
+	                    	
+	                    	<div class="facts-btns">
+	                    		<a class="btn text-center" target="_blank" href="/academics">EXPLORE</a>
+	                    		<!--<a class="btn text-center" target="_blank" href="/reg/Pages/ApplyOnline.aspx">APPLY TO JUST</a>-->
+	                    		<a class="btn text-center" target="_blank" href="/Documents/Brochure.pdf">JUST Brochure</a>
+	                    		<a class="btn text-center" target="_blank" href="/Documents/AnnualReport2017.pdf">Annual Report 2017</a>
+	                    	</div>
+	                        
+	                    </div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-------------------------------- facts -   end --------------------------------->
+	
+	
+		
+		<!-------------------------------- stats - start --------------------------------->
+		<div class="stats">
+			<div class="container">
+				<div class="stats-header text-left text-uppercase">University Highlights</div>
+				
+				<div id="stats" class="carousel slide" data-ride="carousel">
+		            <!--<ol class="carousel-indicators">
+		                <li data-target="#stats" data-slide-to="0" class="active"></li>
+		                <li data-target="#stats" data-slide-to="1"></li>
+		                <li data-target="#stats" data-slide-to="2"></li>
+		            </ol>-->
+		            
+		            <div class="buttons">
+		            	<!-- Left and right controls -->
+						<a class="left carousel-control" href="#stats" role="button" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left glyphicon-circle-arrow-left" aria-hidden="true"></span>
+							<!--<span><i class="fa fa-arrow-circle-left" aria-hidden="true"></i></span>-->
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="right carousel-control" href="#stats" role="button" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right glyphicon-circle-arrow-right" aria-hidden="true"></span>
+							<!--<span><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></span>-->
+							<span class="sr-only">Next</span>
+						</a>
+		            </div>
+		            
+		            <!-- Left and right controls -->
+					<!--<a class="left carousel-control" href="#stats" role="button" data-slide="prev">
+						<span class="glyphicon glyphicon-chevron-left glyphicon-circle-arrow-left" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="right carousel-control" href="#stats" role="button" data-slide="next">
+						<span class="glyphicon glyphicon-chevron-right glyphicon-circle-arrow-right" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>-->
+		            
+		            <div class="carousel-inner" role="listbox">
+		                
+		                <div class="item active">
+		                	<!--<div class="stats-item-head width-fit-content">The World University Rankings 2017</div>-->
+		                	<div class="row">
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">#1</div>
+		                			<div class="stats-desc">
+		                				JUST Ranked First in Jordan <br/>
+		                				17<sup>th</sup> in the Arab World <br/>
+		                				943 among Global Universities <br/>
+		                				According to the US News University Ranking 2018</div>
+		                		</div>
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">90<sup>th</sup></div>
+		                			<div class="stats-desc">QS World University Rankings 2018 for the Fastest-Rising Young Universities</div>
+		                		</div>
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">101-150<sup>th</sup></div>
+		                			<div class="stats-desc">Young University Ranking 2018</div>
+		                		</div>
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">73<sup>rd</sup></div>
+		                			<div class="stats-desc">Emerging Economies</div>
+		                		</div>
+		                	</div>
+		                </div>
+		                
+		                <div class="item">
+		                	<!--<div class="stats-item-head width-fit-content">JUST Students</div>-->
+		                	<div class="row">
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">Top 400</div>
+		                			<div class="stats-desc">
+		                				351-400 in the World<br/>
+		                				#1 in Jordan<br/>
+		                				#3 in Arab World - 68 in Asia<br/>
+		                				176-200 Clinical, Pre-clinical & Health<br/>
+		                				THE World University Ranking 2018</div>
+		                		</div>
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title stats-title-small">QS WU Ranking</div>
+		                			<div class="stats-desc">351-400 Mechanical, Aeronautical & Manufacturing Engineering<br/>401-450 Medicine</div>
+		                		</div>
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">20,423</div>
+		                			<div class="stats-desc">Undergraduate Students (FTE)</div>
+		                		</div>
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">1,093</div>
+		                			<div class="stats-desc">Postgraduate Students (FTE)</div>
+		                		</div>
+		                	</div>
+		                </div>
+		                
+		                <div class="item">
+		                	<!--<div class="stats-item-head width-fit-content">JUST Staff</div>-->
+		                	<div class="row">
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">68,771</div>
+		                			<div class="stats-desc">Graduates Since Establishment</div>
+		                		</div>
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">4,493</div>
+		                			<div class="stats-desc">International students representing the most diverse student body in Jordan</div>
+		                		</div>
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">1749</div>
+		                			<div class="stats-desc">Academic Faculty Staff (FTE)</div>
+		                		</div>
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">$15.5 million </div>
+		                			<div class="stats-desc">Annual research budget</div>
+		                		</div>
+		                		<!--<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">1 : 1.56</div>
+		                			<div class="stats-desc">Faculty to staff ratio</div>
+		                		</div>-->
+		                	</div>
+		    			</div>
+		    			
+		    			<div class="item">
+		    				<div class="row">
+		    					<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">UI Green Metric 2017</div>
+		                			<div class="stats-desc">
+		                				332 Among Overall World 2017<br/>
+		                				112 in Asia Region 2017
+		                			</div>
+		                		</div>
+		                		
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">Webometrics 2018</div>
+		                			<div class="stats-desc">
+		                				Rank is 1300
+		                			</div>
+		                		</div>
+		                		
+		                		<div class="col-sm-6 col-md-3">
+		                			<div class="stats-title">QS</div>
+		                			<div class="stats-desc">
+		                				651-700 in Global World 2019<br/>
+		                				14 in Arab Region 2018<br/>
+		                				101-150 Top 50 under 50 2018<br/>
+		                				QS 5 STARS
+		                			</div>
+		                		</div>
+		    				</div>
+		    			</div>
+		                
+		            </div>
+		        </div>
+			</div>
+		</div>
+		<!-------------------------------- stats -   end --------------------------------->
+		
+	
+	
+		<!-------------------------------- news row - start -------------------------------------->
+		<div class='news'>
+	    	<div class="container">
+				<!--<div class='news-head-title'><a href='/NewsCenter/Pages/JustNews.aspx'>NEWS</a></div>-->
+				<div class='block-title'><a href='/NewsCenter/Pages/JustNews.aspx'>NEWS</a></div>
+				
+		        
+
+<script type='text/javascript'>
+	$(function(){
+		//var re = new RegExp("^([a-zA-Z0-9 \\.\\-\\+,;:_\\]\\[\\)\\(\\}\\{\\'\\\"])*$");
+		var re = new RegExp("[\u0600-\u06FF]");
+		
+		$.each($(".news-title a"), function(item) {
+			var i = $($(".news-title a").get(item));
+			var s = i.text().trim();
+			if (re.test(s)) {
+				$(i).addClass("arabic-text");
+			}
+		});
+	});
+</script>
+
+
+<div id="ctl00_PlaceHolderMain_ucNews_dWebpart">
+	
+	<div class='row'>
+	
+		
+			
+				<div class='col-sm-6 col-md-3 news-item'>
+					<!--<div class='news-item-layer'></div>-->
+					
+					<div class='news-img'>
+						<!--<img class='img-responsive' src='/NewsCenter/PublishingImages/_w/ادارة%20الازمات_jpg.jpg' />-->
+						<img class='img-responsive' src='/NewsCenter/PublishingImages/ادارة%20الازمات.jpg?RenditionID=5' />
+					</div>
+					
+					<div class='news-body'>
+						<div class='news-title'>
+							<a href='http://www.just.edu.jo/NewsCenter/Lists/JustNews/DisplayItem.aspx?ID=1504'>
+								The President of Jordan University of Science and Technology meets the Advisor of the Nation...
+								<!--The President of Jordan University of Science and Technology meets the Advisor of the National Center for Security and Crisis Management.-->
+							</a>
+						</div>
+						
+						<div class='news-date'>
+							 03 Dec 2018
+						</div>
+					</div>
+				</div>
+				
+			
+			
+				<div class='col-sm-6 col-md-3 news-item'>
+					<!--<div class='news-item-layer'></div>-->
+					
+					<div class='news-img'>
+						<!--<img class='img-responsive' src='/NewsCenter/PublishingImages/_w/Dogara_02_jpg.jpg' />-->
+						<img class='img-responsive' src='/NewsCenter/PublishingImages/Dogara_02.jpg?RenditionID=5' />
+					</div>
+					
+					<div class='news-body'>
+						<div class='news-title'>
+							<a href='http://www.just.edu.jo/NewsCenter/Lists/JustNews/DisplayItem.aspx?ID=1503'>
+								"The Faculty of Pharmacy conducts a free medical day in Dogara"
+								<!--"The Faculty of Pharmacy conducts a free medical day in Dogara"-->
+							</a>
+						</div>
+						
+						<div class='news-date'>
+							 03 Dec 2018
+						</div>
+					</div>
+				</div>
+				
+			
+			
+				<div class='col-sm-6 col-md-3 news-item'>
+					<!--<div class='news-item-layer'></div>-->
+					
+					<div class='news-img'>
+						<!--<img class='img-responsive' src='/NewsCenter/PublishingImages/_w/DSC_2317_jpg.jpg' />-->
+						<img class='img-responsive' src='/NewsCenter/PublishingImages/DSC_2317.jpg?RenditionID=5' />
+					</div>
+					
+					<div class='news-body'>
+						<div class='news-title'>
+							<a href='http://www.just.edu.jo/NewsCenter/Lists/JustNews/DisplayItem.aspx?ID=1502'>
+								Khreisat Meets Faculty Members
+								<!--Khreisat Meets Faculty Members-->
+							</a>
+						</div>
+						
+						<div class='news-date'>
+							 03 Dec 2018
+						</div>
+					</div>
+				</div>
+				
+			
+			
+				<div class='col-sm-6 col-md-3 news-item'>
+					<!--<div class='news-item-layer'></div>-->
+					
+					<div class='news-img'>
+						<!--<img class='img-responsive' src='/ar/NewsCenter/PublishingImages/_w/my%20bike_jpg.jpg' />-->
+						<img class='img-responsive' src='/ar/NewsCenter/PublishingImages/my%20bike.jpg?RenditionID=5' />
+					</div>
+					
+					<div class='news-body'>
+						<div class='news-title'>
+							<a href='http://www.just.edu.jo/NewsCenter/Lists/JustNews/DisplayItem.aspx?ID=1501'>
+								"My Bike"
+								<!--"My Bike"-->
+							</a>
+						</div>
+						
+						<div class='news-date'>
+							 25 Nov 2018
+						</div>
+					</div>
+				</div>
+				
+			
+		
+	</div>
+		
+</div>
+
+
+
+		        
+		        <div class='news-more text-right'><a href='/NewsCenter/Pages/JustNews.aspx'>More News</a></div>
+			</div>
+		</div>
+		<!-------------------------------- news row -   end -------------------------------------->
+	
+	
+	
+	
+	    <!-------------------------------- announcements - start -------------------------------->
+	    <div class='newscenter'>
+	    	<div class="container">
+	    		<div class="row">
+			    	<div class='col-md-5'>
+			    		<div class='block-title text-left'><a href='/NewsCenter/Pages/EventsAnnouncements.aspx'>ANNOUNCEMENTS</a></div>
+			    		
+				        <div class='announcements'>
+				            <div class='block-body'>
+				            	
+
+<script type='text/javascript'>
+	$(function(){
+		//var re = new RegExp("^([a-zA-Z0-9 \\.\\-\\+,;:_\\]\\[\\)\\(\\}\\{\\'\\\"])*$");
+		var re = new RegExp("[\u0600-\u06FF]");
+		
+		$.each($(".ann-title a"), function(item) {
+			var i = $($(".ann-title a").get(item));
+			var s = i.text().trim();
+			if (re.test(s)) {
+				$(i).addClass("arabic-text");
+			}
+		});
+	});
+</script>
+
+
+<div id="ctl00_PlaceHolderMain_ucAnnouncements_dWebpart">
+	
+			
+			<div class='ann-item'>
+				<div class='ann-title'>
+					<a href='http://www.just.edu.jo/NewsCenter/Lists/EventsAnnouncements/DisplayItem.aspx?ID=746'>
+						<!--<span class="glyphicon glyphicon-chevron-right"></span>-->
+						اعلان بخصوص موعد عقد امتحان الكفاءة الجامعية
+						<!--اعلان بخصوص موعد عقد امتحان الكفاءة الجامعية-->
+					</a>
+				</div>
+				<div class='ann-date'>
+					 19 November 2018
+				</div>
+				<div class='ann-desc'>
+					<!---->
+					
+				</div>
+			</div>
+		
+			
+			<div class='ann-item'>
+				<div class='ann-title'>
+					<a href='http://www.just.edu.jo/NewsCenter/Lists/EventsAnnouncements/DisplayItem.aspx?ID=745'>
+						<!--<span class="glyphicon glyphicon-chevron-right"></span>-->
+						اعلان للمتقدمين لوظيفة فني مختبر تشخيصي
+						<!--اعلان للمتقدمين لوظيفة فني مختبر تشخيصي-->
+					</a>
+				</div>
+				<div class='ann-date'>
+					 25 November 2018
+				</div>
+				<div class='ann-desc'>
+					<!---->
+					
+				</div>
+			</div>
+		
+			
+			<div class='ann-item'>
+				<div class='ann-title'>
+					<a href='http://www.just.edu.jo/NewsCenter/Lists/EventsAnnouncements/DisplayItem.aspx?ID=744'>
+						<!--<span class="glyphicon glyphicon-chevron-right"></span>-->
+						تأجيل الامتحانات وجميع النشاطات الأخرى في الجامعة المقرر عقدها يوم السبت
+						<!--تأجيل الامتحانات وجميع النشاطات الأخرى في الجامعة المقرر عقدها يوم السبت-->
+					</a>
+				</div>
+				<div class='ann-date'>
+					 09 November 2018
+				</div>
+				<div class='ann-desc'>
+					<!---->
+					
+				</div>
+			</div>
+		
+</div>
+
+
+
+				            </div>
+				            
+				            <div class='more text-right'><a href='/NewsCenter/Pages/EventsAnnouncements.aspx'>More Announcements</a></div>
+				        </div>
+			        </div>
+			    	
+			    	<div class='col-md-5 col-md-offset-2'>
+			    		<div class='block-title text-left'>EVENTS</div>
+			    	
+				        <div class='events'>
+				            <div class='block-body'>
+				                
+
+<script type='text/javascript'>
+	$(function(){
+		//var re = new RegExp("^([a-zA-Z0-9 \\.\\-\\+,;:_\\]\\[\\)\\(\\}\\{\\'\\\"])*$");
+		var re = new RegExp("[\u0600-\u06FF]");
+		
+		$.each($(".event-title a"), function(item) {
+			var i = $($(".event-title a").get(item));
+			var s = i.text().trim();
+			if (re.test(s)) {
+				$(i).addClass("arabic-text");
+			}
+		});
+	});
+</script>
+
+
+<div id="ctl00_PlaceHolderMain_ucEvents_dWebpart">
+	
+		
+			<div class='event-item'>
+				<div class='event-date pull-left text-center'>
+					 27<br/>Mar
+				</div>
+				<div class='event-title pull-left'>
+					<a href='http://www.just.edu.jo/NewsCenter/Lists/Events/DisplayItem.aspx?ID=58'>
+						The Lancet Palestinian Health Alliance (LPHA) Tenth Annual Conference March 27-28, 2019
+					</a>
+					
+					<div class='event-desc'>
+						<!--March 27-28, 2019 in Amman, Jordan.-->
+						March 27-28, 2019 in Amman, Jordan.
+					</div>
+					
+				</div>
+				<div class='clear'></div>
+			</div>
+			
+		
+</div>
+
+
+
+				            </div>
+				            
+				            <div class='more text-right'><a href='/NewsCenter/Pages/Events.aspx'>More Events</a></div>
+				        </div>
+			        </div>
+			        
+			    </div>
+		    </div>
+	    </div>
+	    <!-------------------------------- announcements - end -------------------------------->
+	
+	
+		<!-------------------------------- social media - start -------------------------------->
+	    <div class="just-media">
+	    	<div class="container">
+	    		
+	    		<div class="just-media-title">
+	    			JUST SOCIAL MEDIA
+	    		</div>
+	    		
+	    		<div class="row">
+	    		
+			    	<div class='col-md-5 youtube'>
+			    		
+
+<script type='text/javascript'>
+	/* Light YouTube Embeds by @labnol */
+	/* Web: http://labnol.org/?p=27941 */
+
+	document.addEventListener("DOMContentLoaded",
+		function ()
+		{
+			var div, n,
+				v = document.getElementsByClassName("youtube-player");
+			for (n = 0; n < v.length; n++)
+			{
+				div = document.createElement("div");
+				div.setAttribute("data-id", v[n].dataset.id);
+				div.innerHTML = labnolThumb(v[n].dataset.id);
+				div.onclick = labnolIframe;
+				v[n].appendChild(div);
+			}
+		});
+
+	function labnolThumb(id)
+	{
+		//var thumb = '<img src="https://i.ytimg.com/vi/PKzQUJ8SOXw/sddefault.jpg">',
+		//	play = '<div class="play"></div>';
+		//var thumb = '<img src="https://i.ytimg.com/vi/JdPYiPjjUK4/sddefault.jpg">',
+		//	play = '<div class="play"></div>';
+		var thumb = '<img src="https://i.ytimg.com/vi/bWaB1N-CIG4/sddefault.jpg">',
+			play = '<div class="play"></div>';
+		
+		
+		return thumb.replace("ID", id) + play;
+	}
+
+	function labnolIframe()
+	{
+		var iframe = document.createElement("iframe");
+		
+		//var embed = "https://www.youtube.com/embed/PKzQUJ8SOXw?autoplay=1&rel=0";
+		//var embed = "https://www.youtube.com/embed/JdPYiPjjUK4?autoplay=1&rel=0";
+		var embed = "https://www.youtube.com/embed/bWaB1N-CIG4?autoplay=1&rel=0";
+		
+		iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
+		iframe.setAttribute("frameborder", "0");
+		iframe.setAttribute("allowfullscreen", "1");
+		this.parentNode.replaceChild(iframe, this);
+	}
+</script>
+
+<style type="text/css">
+	.youtube-player
+	{
+		position: relative;
+		padding-bottom: 56.23%;
+		/* Use 75% for 4:3 videos */
+		height: 0;
+		overflow: hidden;
+		max-width: 100%;
+		background: #000;
+		margin: 5px;
+	}
+
+		.youtube-player iframe
+		{
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			z-index: 100;
+			background: transparent;
+		}
+
+		.youtube-player img
+		{
+			bottom: 0;
+			display: block;
+			left: 0;
+			margin: auto;
+			max-width: 100%;
+			width: 100%;
+			position: absolute;
+			right: 0;
+			top: 0;
+			border: none;
+			height: auto;
+			cursor: pointer;
+			-webkit-transition: .4s all;
+			-moz-transition: .4s all;
+			transition: .4s all;
+		}
+
+			.youtube-player img:hover
+			{
+				-webkit-filter: brightness(75%);
+			}
+
+		.youtube-player .play
+		{
+			height: 72px;
+			width: 72px;
+			left: 50%;
+			top: 50%;
+			margin-left: -36px;
+			margin-top: -36px;
+			position: absolute;
+			background: url("//i.imgur.com/TxzC70f.png") no-repeat;
+			cursor: pointer;
+		}
+</style>
+
+<div style="height: 315px;" class="youtube-player" data-id="VIDEO_ID" ></div>
+
+
+
+			        	<!--<iframe width="100%" height="315" src="https://www.youtube.com/embed/PKzQUJ8SOXw" frameborder="0" allowfullscreen></iframe>-->
+			        	<!-- just channel https://www.youtube.com/channel/UCVLYZ-9I6nTA8-WgergKF0g -->
+			        </div>
+			    	
+			        <div class='col-md-6 col-md-offset-1 social'>
+			    		<div class="row">
+				    		<div class="col-sm-4">
+				    			<div class="social-icon"><a target='_blank' href='https://www.facebook.com/pages/JUST-University/633721593348542?ref=hl'><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+				    			
+
+<script type="text/javascript">
+	$(function ()
+	{
+		$.getJSON("https://graph.facebook.com/633721593348542/posts?access_token=EAACfDa8Ee8oBAELIn3yQ8hj2gOZCN0MHjHhcjiZAj38G2coNfjbzlElTqT5VNYIo00YUhEm9ILiuXK1gc2Qs3eJtih35ZCWnGvQUtT9DGJpCs1miYRrBcrB1ZAufsu6KlGfDyWc1xSGL6q4Y1RNn1KMS0TjMHxYZA4IBn7jSFuAZDZD&fields=id,object_id,picture,message,link,actions")
+		.done(function(data)
+		{
+			//RefreshPost(data);
+			if (data)
+			{
+				var objPost = data.data[0];
+				
+				$("#fbMessage").attr("href", objPost.actions[0].link);
+				var msg = objPost.message==null ? "" : (objPost.message.toString().length > 100 ? objPost.message.toString().substring(0, 97) + "..." : objPost.message.toString());
+				$("#fbMessage").text(msg);
+				
+				$("#fbImage").attr("href", objPost.actions[0].link);
+				$("#fbImage img").attr("src", objPost.picture);
+				
+				FixFont();
+			}
+		})
+	});
+	
+	function FixFont()
+	{
+		//var re = new RegExp("^([a-zA-Z0-9 \\.\\-\\+,;:_\\]\\[\\)\\(\\}\\{\\'\\\"])*$");
+		var re = new RegExp("[\u0600-\u06FF]");
+		
+		$.each($(".social-post-title a"), function(item) {
+			var i = $($(".social-post-title a").get(item));
+			var s = i.text().trim();
+			if (re.test(s)) {
+				$(i).addClass("arabic-text");
+			}
+		});
+	}
+</script>
+
+<style>
+	
+</style>
+
+
+<div class="social-post-title">
+	<a id='fbMessage' target='_blank' href='#'>
+		
+	</a>
+</div>
+
+<div class="social-post-image">
+	<a id='fbImage' target='_blank' href='#'>
+		<img class="img-responsive" src='' alt="" />
+	</a>
+</div>
+
+				    		</div>
+				    		
+							<div class="col-sm-4">
+				    			
+
+<script type='text/javascript'>
+	$(function(){
+		//var re = new RegExp("^([a-zA-Z0-9 \\.\\-\\+,;:_\\]\\[\\)\\(\\}\\{\\'\\\"])*$");
+		var re = new RegExp("[\u0600-\u06FF]");
+		
+		$.each($(".social-post-title a"), function(item) {
+			var i = $($(".social-post-title a").get(item));
+			var s = i.text().trim();
+			if (re.test(s)) {
+				$(i).addClass("arabic-text");
+			}
+		});
+	});
+</script>
+
+<style>
+	
+</style>
+
+<div id="ctl00_PlaceHolderMain_ucTwitter_upTwitter">
+	
+	
+		<div id="ctl00_PlaceHolderMain_ucTwitter_dWebpart">
+			
+					<div class="twitter-post-image">
+						<!--<a target='_blank' href='https://t.co/ZW9DQ8oN1q'>-->
+							<img class="img-responsive" src='https://pbs.twimg.com/profile_banners/259848327/1464244804' alt="" />
+						<!--</a>-->
+					</div>
+					
+					<div class="social-post-title">
+						<a target='_blank' href='https://t.co/ZW9DQ8oN1q'>
+							https://t.co/ZW9DQ8oN1q
+						</a>
+					</div>
+				
+			
+		</div>
+
+
+		
+			
+	
+</div>
+
+				    			<div class="twitter-icon"><a target='_blank' href='http://www.twitter.com/justedujo'><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+							</div>
+							
+							<div class="col-sm-4">
+								<div class="social-icon"><a class="pull-right" target='_blank' href='https://www.instagram.com/justuniversityjo'><i class="fa fa-instagram" aria-hidden="true"></i></a><div class="clear"></div></div>
+				    			
+
+
+<script type="text/javascript">
+	$(function ()
+	{
+		//access_token=4718015852.ab9d1d4.297c41b1eff644afa2a46c5db722a678
+		
+		$.ajax({
+			type: "GET",
+			//url: 'https://www.instagram.com/justuniversityjo/media', 
+			//url: 'https://api.instagram.com/v1/tags/justedujo/media/recent?access_token=4718015852.ab9d1d4.297c41b1eff644afa2a46c5db722a678&callback=callbackFunction',
+			url: 'https://api.instagram.com/v1/users/4718015852/media/recent/?access_token=4718015852.ab9d1d4.297c41b1eff644afa2a46c5db722a678&client_id=ab9d1d4780124a46bc27aae67a44acde&count=1&callback=callbackFunction',
+			data:{},
+			async:true,
+			dataType : 'jsonp',   //you may use jsonp for cross origin request
+			crossDomain:true,
+			success: function(data) {
+				if (data)
+				{
+					var objPost = data.data[0];
+					
+					$("#insMessage").attr("href", objPost.link);
+					var msg = objPost.caption.text.toString().length > 100 ? objPost.caption.text.toString().substring(0, 97) + "..." : objPost.caption.text.toString();
+					$("#insMessage").text(msg);
+					
+					$("#insImage").attr("href", objPost.link);
+					$("#insImage img").attr("src", objPost.images.standard_resolution.url);
+					
+					FixFont();
+				}
+			}
+		});
+	});
+	
+	function FixFont()
+	{
+		//var re = new RegExp("^([a-zA-Z0-9 \\.\\-\\+,;:_\\]\\[\\)\\(\\}\\{\\'\\\"])*$");
+		var re = new RegExp("[\u0600-\u06FF]");
+		
+		$.each($(".social-post-title a"), function(item) {
+			var i = $($(".social-post-title a").get(item));
+			var s = i.text().trim();
+			if (re.test(s)) {
+				$(i).addClass("arabic-text");
+			}
+		});
+	}
+	
+</script>
+
+
+<style>
+	
+</style>
+
+
+<div class="social-post-title">
+	<a id='insMessage' target='_blank' href='#'>
+		
+	</a>
+</div>
+
+<div class="social-post-image">
+	<a id='insImage' target='_blank' href='#'>
+		<img class="img-responsive" src='' alt="" />
+	</a>
+</div>
+
+							</div>
+						</div>
+			        </div>
+			        
+			    </div>
+			    
+			    <div class="row">
+			    	<div class="pull-right">
+			    		<div class="social-icon"><a target='_blank' href='https://www.linkedin.com/edu/school?id=192021&trk=hp-feed-school-name'><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></div>
+			    	</div>
+			    	<div class="clear"></div>
+			    </div>
+			    
+		    </div>
+	    </div>
+	     <!-------------------------------- social media - end -------------------------------->
+	
+	
+		<!-------------------------------- Fourm 2017 - start -------------------------------->
+		
+		 <!-------------------------------- Fourm 2017 - end --------------------------------></div>
+    
+<div style='display:none' id='hidZone'><menu class="ms-hide">
+	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+	</ie:menuitem>
+</menu></div>
+									</div>
+							        
+							    </div>
+							    
+								    
+							
+								
+								
+						        <!-------------------------------- footer - start -------------------------------->
+								<div class='footer'>
+									<div class="container">
+									
+										<div class="row footer-links">
+											
+											<div class="col-sm-3">
+												<div class="footer-links-title">
+													Academics
+												</div>
+												<div class="footer-links-list">
+													<ul>
+														<li><a href="/calendar" >Academic Calendar</a></li>
+														<li><a href="https://services.just.edu.jo/CourseSchedule/Default_en.aspx" >Course Schedule</a></li>
+														<li><a href="/academics" >Faculties</a></li>
+														<li><a href="/FacultiesandDepartments/FacultyofGraduateStudies" >Graduate Studies</a></li>
+													</ul>
+												</div>
+											</div>
+											
+											<div class="col-sm-3">
+												<div class="footer-links-title">
+													Campus Life
+												</div>
+												<div class="footer-links-list">
+													<ul>
+														<li><a href="/Deanships/DeanshipofStudentsAffairs/Departments/DepartmentofAthleticActivities" >Athletics</a></li>
+														<li><a href="/Deanships/DeanshipofStudentsAffairs/Pages/StudentClubs.aspx" >Student Clubs</a></li>
+														<li><a href="/Deanships/DeanshipofStudentsAffairs/Departments/HousingServices" >Housing</a></li>
+														<li><a href="/Centers/HealthCenter/Pages/Clinics-Dates.aspx" >Medical Clinic</a></li>
+													</ul>
+												</div>
+											</div>
+											
+											<div class="col-sm-3">
+												<div class="footer-links-title">
+													Resources
+												</div>
+												<div class="footer-links-list">
+													<ul>
+														<li><a href="/Centers/cic/Pages/Services.aspx" >IT Helpdesk Services</a></li>
+														<!--<li><a href="/news/pages/jobopportunities.aspx" >Jobs</a></li>-->
+														<li><a href="/library" >Library</a></li>
+														<li><a href="/newscenter" >Newscenter</a></li>
+														<li><a href="http://justforjust.com/">JUST FOR JUST Newspaper</a></li>
+													</ul>
+												</div>
+											</div>
+											
+											<div class="col-sm-3">
+												<div class="footer-links-title">
+													Information For
+												</div>
+												<div class="footer-links-list">
+													<ul>
+														<li><a href="/Units_and_offices/Offices/alumni" >Alumni</a></li>
+														<li><a href="/academics" >Faculty</a></li>
+														<li><a href="#" >Parents & Families</a></li>
+														<li><a href="#" >Staff</a></li>
+													</ul>
+												</div>
+											</div>
+											
+										</div>
+										
+										
+										<div class='row'>
+											
+											<div class='col-sm-2'>
+												<img class='img-responsive center-block' src="/assets/just/images/just_logo_footer.png" />
+											</div>
+											
+											<div class='col-sm-4 col-sm-offset-1 contact-info'>
+												<div class="footer-title">
+													Contact JUST
+												</div>
+												
+												<div>
+													Jordan University of Science & Technology<br />
+													P.O.Box 3030, Irbid 22110, Jordan<br />
+													Tel. : + 962 (0) 2 7201000<br />
+													Fax : + 962 (0) 2 7095123<br />
+													Email: <a href='mailto:public@just.edu.jo'>public@just.edu.jo</a><br/><br/>
+												</div>
+											</div>
+											
+											<div class='col-sm-4 col-sm-offset-1'>
+												<div class="footer-title">
+													<a href='/NewsCenter/pages/newsletter.aspx'>Newsletter</a>
+												</div>
+												
+												<div>
+													Enter your email address to get the latest University news, special events and student activities delivered right to your inbox.
+													<br /><br />
+												</div>
+												
+												<div>
+													<a class="btn text-center"  href="/Pages/subscribe.aspx">Subscribe to JUST Newsletter</a>
+												</div>
+											</div>
+										</div>
+										
+										<div class="row">
+											<div class="mob-app">
+												<div style="width:-moz-fit-content; width:-webkit-max-content;" class="center-block">
+													<a href="https://play.google.com/store/apps/details?id=jo.edu.just.juststudents"><img class="img-responsive pull-left" src="/assets/just/images/googleplay.png" /></a>
+													<a href="https://itunes.apple.com/us/app/just-students/id1115178610?mt=8&ign-mpt=uo%3D4"><img class="img-responsive pull-left" src="/assets/just/images/appstore.png" /></a>
+													<div class="clear"></div>
+												</div>
+											</div>
+											
+											<!--<div class='social-links'>
+												<div class='pull-right'>
+													<a target='_blank' href='https://plus.google.com/102298974673649892861'><i class="fa fa-google-plus-square" aria-hidden="true"></i></a>
+													<a target='_blank' href='https://www.instagram.com/justuniversityjo/'><i class="fa fa-instagram" aria-hidden="true"></i></a>
+													<a target='_blank' href='https://www.youtube.com/channel/UCVLYZ-9I6nTA8-WgergKF0g'><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+													<a target='_blank' href='https://www.linkedin.com/edu/school?id=192021&trk=hp-feed-school-name'><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+													<a target='_blank' href='http://www.twitter.com/justedujo'><i class="fa fa-twitter" aria-hidden="true"></i></a>
+													<a target='_blank' href='https://www.facebook.com/pages/JUST-University/633721593348542?ref=hl'><i class="fa fa-facebook" aria-hidden="true"></i></a>
+												</div>
+											</div>--><!-- social-links -->
+											
+										</div>
+									</div>
+								</div>
+								<!-------------------------------- footer - end -------------------------------->
+								
+								
+								<!-------------------------------- copyright - start -------------------------------->
+								<div class="copyright text-center">
+									<div class="container">
+										© 2017 Jordan University of Science and Technology, Information Technology & Communications Center. All Rights Reserved.
+									</div>
+								</div>
+								<!-------------------------------- copyright - end -------------------------------->
+						        
+							    
+						    </div><!-- wrapper -->
+						    
+						    <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></a>
+						    
+							<!------------------------------------------------------------------------------------------------>
+							
+							
+							<!--------------------------------------------------------->
+							<!-------------------- End JUST Page -------------------->
+							<!--------------------------------------------------------->
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- ===== STARTER: Main Scrolling Body Ends Here ================================================================================= -->
+			
+			<!-- ===== STARTER: Needed for form stuff ========================================================================================= -->
+			
+				<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0xCC207B5EBF15C09E822144C6404376FB3082ECB2F12889AF76F01CC6BB9316F52472198403323F66713B98DD5E2A336FC703DC0FC0A83353E9DD249FF0B29483,03 Dec 2018 13:23:37 -0000';
+            g_updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+			
+		
+			<!-- ===== STARTER: Hidden Placeholders =========================================================================================== -->	
+			<asp:panel Visible="false">
+				
+				
+				
+				<!-- ===== STARTER: Search Control ==================================================================================== -->
+				
+				
+				
+			
+			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</asp:panel>
+			
+				
+		
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{c3c1410c-9faf-4aa1-b383-426f37fa4822}",itemId: 33,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:16,Low:200769}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var g_clientIdDeltaPlaceHolderMain = "ctl00_DeltaPlaceHolderMain";
+//]]>
+</script>
+</form>
+	
+		<!-- ===== STARTER: Adds extra stuff like another form for Survey management ====================================================== -->	
+		
+
+	</body>
+	
+	<!-- Created from Starter SP2013 Master Page originally by Randy Drisgill (http://blog.drisgill.com) - April 21, 2013 -->
+</html>

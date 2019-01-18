@@ -1,0 +1,13 @@
+http://txt2html.sourceforge.net/sample.txt
+http://www.just.edu.jo
+http://www.yu.edu.jo
+http://www.ju.edu.jo
+http://www.hu.edu.jo
+https://twitter.com
+https://www.facebook.com
+https://www.google.com
+xyz
+10.243.23.137
+www.just.edu.jo
+Lab3-06-06
+https://www.cca.edu/sites/default/files/pdf/08/word-to-pdf.pdf
